@@ -1,0 +1,1 @@
+select * from container where id in (select container_id from container_supplier where supplier_id = 150)

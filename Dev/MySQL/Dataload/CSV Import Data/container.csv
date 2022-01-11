@@ -1,0 +1,1253 @@
+﻿id,container_id,type,description,vle,model_mix,empties_storage,empties_lane,jis_route,length,width,height,weight,haulier_id,load_unit_id
+1,3080007,BIW,"RR4 DOOR CONTAINER
+ (BIW)",,BIW,,,,2400,1600,1610,444.0,1,
+2,3080053,Special,Actuator heater/AC unit rear,V3080053A,RR5/6,,AAH,,594,396,147,2.0,1,1
+3,3080087,Special,Steering Wheel RR4,,RR4,,AAH,,1240,835,995,152.5,1,
+4,3080126,BIW,RR4 BONNET (BIW),,RR5/6,,,,2000,1600,1800,444.0,1,
+5,3080129,BIW,RR4 BOOT LID (BIW),,BIW,,,,2400,1600,1010,360.0,1,
+6,3080150,JIS,Cockpit Harness RR4/5/6,V3080150A,RR4/5/6,,JIS,6,594,396,280,3.5,2,2
+7,3080338,JIS,Front Axles RR4/5/6,,RR4/5/6,,JIS,11,2400,2000,735,250.0,3,
+8,3080374,JIS,"Drip molding A-pillar+ finisher windshield RR4
+(Obsolete - RR4 Only)",,RR4,,OBSOLETE,,1170,395,95,2.5,4,
+9,3080382,Special,"RR4 Bonnet EPP
+(Obsolete - RR4 Only)",,RR4,,OBSOLETE,,1760,1540,170,10.0,,
+10,3080383,Special,"RR4 Bonnet Load Unit Lid
+(Obsolete - RR4 Only)",,RR4,,OBSOLETE,,1790,1590,100,2.0,,
+11,3080384,Special,"RR4 Bonnet Metal Outer
+(Obsolete - RR4 Only)",,RR4,,OBSOLETE,,2750,1800,1510,295.0,,
+12,3080400,JIS,ASSY ENGINE,,RR5/6/11/12/31/RR21/22,,JIS,6,2200,1500,1100,290.0,2,
+13,3080417,Special,Drip molding A-pillar+ finisher windshield (Obsolete - RR2/3),V3080417A,RR2/3,,OBSOLETE,,1170,395,95,2.5,4,3
+14,3080435,Special,FINISHER WARM AIR GUIDE,V3080435A,RR5/6,,MUC,,1397,403,126,6.0,1,4
+15,3080465,Special,"Water collector strip
+(Obsolete - RR4 Only)",,,,OBSOLETE,,1200,400,150,3.0,,
+16,3080466,Special,"Water collector strip
+(Obsolete - RR4 Only)",,,,OBSOLETE,,1200,400,150,3.0,,
+17,3080484,BIW,ASSY RH SIDE PANEL FRT (BIW),,RR4,,,,2400,1800,1260,470.0,1,
+18,3080490,JIS,"Antenna Cover 
+RR4
+(OBSOLETE - RR4 Only)",,RR4,,OBSOLETE,,297,198,147,1.0,4,
+19,3080491,JIS,Frame Radiator Grille RR4/5/6,V3080491A,RR4/5/6,,JIS,2,1170,580,190,1.8,1,5
+20,3080529,JIS,"PAINT TRAVERSE BAR 
+RR4",,BIW,,JIS,9,2800,1200,1260,515.0,5,
+21,3080551,Special,RR4 Struts Rear Front ,,RR5/6,,BER,,1220,835,990,120.0,1,
+22,3080561,JIS,Wiring Harness Cotton Bag RR4,,RR4/5/6,,JIS,6,1580,370,390,6.0,2,
+23,3080618,Special,"Langgutkassette mit 3 Schieberpositionen
+",,RR5/6,,AAH,,2885,820,500,309.0,1,
+24,3080627,BMW Standard,"METAL CONTAINER FOR
+COVERING CABLE DUCT",,RR5/6,,,,3200,1200,750,200.0,1,
+25,3080628,Special,Cooling hose feed heater/AC unit ,,RR5/6,,AAH,,1640,835,485,100.0,1,
+26,3080649,Special,RR4 Rear Window,,RR5/6,,NUE,,1700,800,1150,190.0,1,
+27,3080652,Special,Door Glass Front RR4,,RR5/6,,BER,,1200,800,1000,71.0,1,
+28,3080653,Special,Door Glass Rear RR4,,RR5/6,,BER,,1200,800,1000,90.0,1,
+29,3080662,Special,Covering windshield panel,,RR5/6,,NUE,,1700,800,1450,5.0,1,
+30,3080690,Special,EPP Dachantennenhaube RR4,V3080690A,RR5/6,,MUC,,600,400,101,0.5,1,6
+31,3080711,Special,Air supply system,V3080711A,RR5/6,,BER,,1200,800,150,4.0,1,7
+32,3080736,Special,Covering seat rail seat rear,V3080736A,RR11/12/31,,AAH,,600,400,75,3.0,1,8
+33,3080737,Special,Covering seat rail seat front,V3080737A,RR5/6,,AAH,,600,400,75,3.0,1,9
+34,3080738,Special,finisher seat rail,V3080738A,RR5/6,,AAH,,794,596,210,3.0,1,10
+35,3080739,Special,finisher seat rail,V3080739A,RR5/6,,AAH,,794,596,210,3.0,1,11
+36,3080744,Special,Air Reservoir,V3080744A,RR5/6,,BER,,1180,790,164,3.0,1,12
+37,3080747,Special,Lock rotary-latch Left,V3080747A,RR5/6,,AAH,,595,395,165,1.0,1,13
+38,3080748,Special,Lock rotary-latch right,V3080748A,RR5/6,,AAH,,595,395,165,1.0,1,14
+39,3080757,Special,Door Handle,V3080757A,RR5/6,,AAH,,594,396,147,2.0,1,15
+40,3080758,Special,Fresh Air Grill Sides,V3080758A,RR5/6,,AAH,,794,596,210,5.5,1,16
+41,3080760,Special,Fresh Air Grill Middle,V3080760A,RR5/6,,AAH,,800,600,220,4.0,1,17
+42,3080763,Special,"KLT mit Stoffgefache Griffschale RR04
+(End of Production - RR4 only)",,RR5/6,,OBSOLETE,,594,396,147,2.0,,
+43,3080764,Special,ASSY CHROMIUM RING HANDLE RECESS FRT,V3080764A,RR5/6,,BER,,400,300,147,1.0,1,18
+44,3080765,Special,ASSY HANDLE GLV/BOX,V3080765A,RR5/6,,NUE,,600,400,147,2.0,1,19
+45,3080766,Special,Fresh Air Grill Rear,V3080766A,RR5/6,,AAH,,800,600,220,4.0,1,20
+46,3080767,JIS,RR4 PROPSHAFT,,RR4,,OBSOLETE,,1200,1000,2370,380.0,6,
+47,3080769,Special,Airbag module driver,,RR5/6,,BER,,1240,835,990,230.0,1,
+48,3080778,Special,Rad Grill ,,RR5/6,,AAH,,1200,1000,750,50.0,1,
+49,3080780,Special,Control cluster center stack,V3080780A,RR5/6,,AAH,,800,600,210,5.0,1,21
+50,3080781,Special,"CEU S/H WITH ""IHKA"" ECU",V3080781A,RR5/6,,AAH,,800,600,210,4.5,1,22
+51,3080783,Special,Control cluster center stack,V3080783A,RR5/6,,AAH,,600,400,148,1.5,1,23
+52,3080788,Special,Carset Front frame liquid ,V3080788A,RR5/6,,FRADLEY,,1170,580,190,3.0,1,24
+53,3080793,Special,Finisher load space,V3080793A,RR5/6,,AAH,,800,600,210,3.0,1,25
+54,3080803,Special,RR4  Door Handle Left and Right,V3080803A,RR5/6,,AAH,,396,297,147,1.0,1,26
+55,3080824,Special,mounting pad licence plate front,V3080824A,RR5/6,,AAH,,1180,790,250,25.0,1,27
+56,3080825,Special,"switch gearbox gear selector
+RR4/5/6/2X",V3080825A,RR4/5/6/2X,,FRADLEY,,600,400,100,1.5,1,28
+57,3080826,Special,UNIFORM LOCKING SYSTEM CONTENT UNIFORM LOCK SYSTEM KEY FOB,V3080826A,RR5/6,,AAH,,260,147,100,0.5,1,29
+58,3080842,Special,LOCK FRONT LID PASSIVE AND ROW,V3080842A,RR5/6,,AAH,,594,396,147,2.5,1,30
+59,3080847,Special,ASSY CARRIER PART HEADREST ,V3080847A,RR5/6,,NUE,,570,370,220,1.0,1,31
+60,3080865,Special,multi-audio-system-controller,V3080865A,RR5/6,,AAH,,800,600,210,5.0,1,32
+61,3080890,Special,Cover sill finisher door rear,V3080890A,RR5/6,,AAH,,794,596,210,5.0,1,33
+62,3080895,Special,Finisher C-post inner upper,V3080895A,RR5/6,,BER,,1180,710,127,10.0,1,34
+63,3080896,Special,Finisher C-post inner upper,V3080896A,RR5/6,,BER,,1100,780,150,10.0,1,35
+64,3080898,Special,Special KLT for RR4 Umbrella Casing,V3080898A,RR5/6,,MUC,,1195,395,210,2.0,1,36
+65,3080899,Special,bracket multifunction center console,V3080899A,RR5/6,,MUC,,1180,780,600,2.5,1,37
+66,3080900,Special,Cover sill finisher door rear,V3080900A,RR5/6,,AAH,,794,596,210,5.0,1,38
+67,3080901,Special,Oddments tray floor center console,V3080901A,RR5/6,,MUC,,1180,780,190,2.5,1,39
+68,3080906,Special,"ASSY  FINISHER B-PILLAR BODY
+(Obsolete - RR4 Only)",,,,OBSOLETE,,594,396,147,2.5,,
+69,3080907,Special,"RR4 Lu Finish B Post
+(Obsolete - RR4 Only)",,,,OBSOLETE,,794,596,210,5.0,,
+70,3080908,Special,"RR4 LU Finisher C Pillar
+(Obsolete - RR4 Only)",,,,OBSOLETE,,794,596,210,5.0,,
+71,3080911,Special,"RR4 LU Finish A Pillar
+(Obsolete - RR4 Only)",,,,OBSOLETE,,594,396,147,2.5,,
+72,3080912,Special,"RR4 LU finish B Post do rear 
+(Obsolete - RR4 Only)",,,,OBSOLETE,,794,596,210,5.0,,
+73,3080913,Special,"RR4 LU Wind Fr Do Re
+(Obsolete - RR4 Only)",,,,OBSOLETE,,794,596,210,5.0,,
+74,3080924,Special,"RR4 LU Finish Fr.d.fr
+(Obsolete - RR4 Only)",,,,OBSOLETE,,1200,800,147,2.5,,
+75,3080925,Special,"Tweeter RR4
+(End of Production)",,RR5/6,,OBSOLETE,,1170,730,150,3.5,,
+76,3080926,Special,"Tweeter RR4
+(End of Production)",,RR5/6,,OBSOLETE,,594,396,147,2.0,,
+77,3080927,Special,Mid range speaker,V3080927A,RR5/6,,NUE,,594,396,147,2.0,1,40
+78,3080930,Special,Lowering Mechanism Hood Ornament,V3080930A,RR5/6,,MUC,,796,596,280,5.0,1,41
+79,3080933,Special,Installation Kit CID,V3080933A,RR5/6,,MUC,,800,600,210,24.0,1,42
+80,3080934,Special,Central control unit,V3080934A,RR5/6,,AAH,,600,400,147,2.0,1,43
+81,3080937,Special,Finisher center console carpet,V3080937A,RR5/6,,MUC,,1450,540,200,5.0,1,44
+82,3080943,JIS,"Wheels 21""
+RR4/5/6",,RR4/5/6,,JIS,9,1240,835,970,85.0,5,
+83,3080950,Special,"ASSY  OUTER WAISTBELT DOOR FRT
+(Obsolete - RR4 Only)",,,,OBSOLETE,,1195,395,68,1.0,,
+84,3080955,Special,"RR4 rear bumper side part container
+(End of Production)",,RR5/6,,OBSOLETE,,800,600,210,4.5,,
+85,3080956,Special,"RR4 Lowering mech cover flap
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,150,2.0,,
+86,3080957,Special,"RR4 Towing eye cover container
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,150,2.0,,
+87,3080958,Special,"Headlight washer cap container
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,150,2.0,,
+88,3080959,Special,"RR4 Grille side parts container
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,150,5.0,,
+89,3080961,Special,"ASSY LH DOOR GLASS BDY SOL. VSSG
+(Obsolete - RR4 Only)",,,,OBSOLETE,,795,596,214,2.5,,
+90,3080962,Special,Wiper Blade,V3080962A,,,AAH,,790,585,60,0.7,1,45
+91,3080963,Special,Wiper Blade,V3080963A,,,AAH,,790,585,110,1.0,1,46
+92,3080971,Special,"Windshield Wiper System
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,760,580,160,1.5,,47
+93,3081043,Special,ASSY FINISHER F STG/WHL RR04,V3081043A,RR5/6,,AAH,,600,400,147,5.0,1,48
+94,3081069,Special,"Gefache für Abdeckleiste Einstieg vo RR4
+",V3081069A,RR5/6,,AAH,,1150,750,90,1.0,1,49
+95,3081166,Special,RR4 WIPER SYSTEMS,V3081166A,All BMW Derivatives,,MUC,,760,580,160,1.5,1,50
+96,3081218,BIW,RR4 bonnet container (BIW),,RR5/6,,,,2400,1800,1510,333.0,1,
+97,3081384,Special,Tail Light RR4,V3081384A,RR5/6,,FRADLEY,,795,595,195,1.0,1,51
+98,3081490,Special,RR4 EWB rear door glass,,RR5/6,,BER,,1200,800,1000,90.0,1,
+99,3081518,Special,"ASSY FINISHER WINDOW SURROUND DOOR
+(Obsolete - RR4 Only)",,,,OBSOLETE,,1195,395,60,2.0,,
+100,3081519,Special,LH Finisher Door Step Door,V3081519A,RR4,,NUE,,796,594,110,4.0,1,52
+101,3081780,Special,Chrome clasp centre arm rest ,V3081780A,All BMW Derivatives,,NUE,,400,300,200,2.0,1,53
+102,3081792,Special,RR4 Crashpad,V3081792A,RR5/6,,MUC,,600,400,147,2.0,1,54
+103,3081799,Special,"Reinforcement rocker panel container RR4
+(End of Production - RR4 Only)",,RR5/6,,AAH,,2000,820,995,194.0,1,
+104,3081806,BIW,FFG ZB Tuer VO HI RR5,,RR5/6,,,,2400,1800,1010,333.0,1,
+105,3081811,Special,RR5 Painted Body Frame,,RR5,,NUE,,2400,1800,1010,333.0,1,
+106,3081888,BIW,RR1 stainless bonnet container (BIW),,BMW,,,,1900,1850,1500,714.0,1,
+107,3081894,BMW Standard,Gitterbox,,All BMW Derivatives,,,,2600,1600,1010,444.0,1,
+108,3082096,BIW,Karossenwagen EWB (BIW),,BIW,,,,4960,1200,400,400.0,1,
+109,3082137,Special,Propshaft,,RR5/6,,NUE,,1200,1000,2370,380.0,1,
+110,3082221,Carset,"Internal Carset Container
+(Leathershop and Modular Carset backup)",,Internal Loop,,,,1220,840,995,140.0,7,
+111,3082254,Special,"Finisher Carpet Centre Console
+(End of Production - RR4 Only)",,RR5/6,,OBSOLETE,,1450,540,167,4.0,,
+112,3082255,Special,Finisher Support CVR RR4 EWB,V3082255A,RR5/6,,NUE,,1180,780,90,2.0,1,55
+113,3082285,,Seatbelt Lock Row,,All BMW Derivatives,,OBSOLETE,,520,320,210,1.3,,56
+114,3082437,Special,"Plastic tray for finisher A-pillar EWB
+&
+Finisher A-post inner upper (RR5)",V3082437A,RR5,,MUC,,1820,400,175,5.0,1,57
+115,3082559,Special,Rear View Camera,V3082559A,All BMW Derivatives,,FRADLEY,,400,300,95,0.5,1,58
+116,3082648,Special,"Metal outer 3082437
+(Obsolete)",,RR5/6,,OBSOLETE,,1850,840,920,70.0,,
+117,3082654,JIS,Outer Mirror RR4/5/6,V3082654A,RR4/5/6,,JIS,2,297,198,147,2.0,4,59
+118,3082663,Special,"SI Partition Wall Trunk UPR Pillar
+(8 dividers per L3082663 container)",V3082663A,RR5/6,,BER,,1120,840,8,3.0,1,60
+119,3082730,JIS,Outer Mirror RR4/5/6,V3082730A,RR4/5/6,,JIS,2,297,198,147,2.0,4,61
+120,3082752,BIW,BIW Side Panel RH RR5 (BIW),,RR5,,,,2400,1200,1260,390.0,1,
+121,3083052,Special,"RR4 I Panel Lower Correx Set
+(Obsolete as RR4 Only)",,RR5/6,,OBSOLETE,,1485,535,400,1.0,,
+122,3083053,Special,"RR4 I Panel upper Divider Set
+(Obsolete as RR4 Only)",,RR5/6,,OBSOLETE,,1490,540,200,1.0,,
+123,3083054,Special,"Foam Base for RR4 I panel
+(Obsolete as RR4 Only)",,RR5/6,,OBSOLETE,,1600,1200,730,100.0,,
+124,3083055,Special,"Divider sheet for I panel Upper
+(Obsolete as RR4 Only)",,RR5/6,,OBSOLETE,,1600,1200,730,100.0,,
+125,3083226,Special,Foam Insert for RR4 Rear Tail Light,,RR4,,FRADLEY,,740,550,15,1.0,1,
+126,3083313,Special,ZB TV-MODUL2,V3083313A,Both,,BER,,395,295,215,5.0,1,62
+127,3083319,Special,Primed side frame finisher RIGHT,,,,AAH,,3000,820,480,150.0,1,
+128,3083320,Special,Primed side frame finisher LEFT,,,,AAH,,3000,820,480,150.0,1,
+129,3083321,Special,"Anodized side frame finisher RIGHT
+(Obsolete - RR4 Only)",,,,OBSOLETE,,3000,820,480,150.0,,
+130,3083323,Special,"Anodized side frame finisher LEFT
+(Obsolete RR4 Only)",,,,OBSOLETE,,3000,820,480,150.0,,
+131,3083437,BMW Standard,Tailgate EPP RR5,V3083437A,RR5,,,,1498,1105,220,8.7,1,63
+132,3083438,BMW Standard,Tailgate EPP Lid RR5,,RR5,,,,1600,820,25,8.7,1,
+133,3083439,BMW Standard,Tailgate Metal Outer RR5,,RR5,,,,2800,1200,1510,300.0,1,
+134,3083500,JIS,"Headliner
+RR5",,RR5,,JIS,11,1450,1200,2500,320.0,3,
+135,3083511,Special,"BESPOKE SPORTS EXHAUST
+CONTAINER",,RR4/5/6,,FRADLEY,,2960,1120,995,270.0,1,
+136,3083512,JIS,Rear Parcel Shelf RR5,,RR4/5,,JIS,7,1600,1200,1000,190.0,8,
+137,3083513,JIS,Finisher Sidewall Rear RR5,V3083513A,RR5,,JIS,2,1200,800,1000,40.0,4,64
+138,3083514,JIS,"EPP Cover bumper front Ghost Series 
+(Obsolete - RR4 Only)",,RR5,,OBSOLETE,,1170,580,215,2.0,4,
+139,3083515,JIS,"Carpet
+RR4-6
+(End of Production)",,RR5/6,,OBSOLETE,,1580,1600,1510,200.0,,
+140,3083516,JIS,High Mounted Brake Light RR5,,RR5,,JIS,2,1400,820,500,100.0,4,
+141,3083517,JIS,"Bumper Rear
+(Successor to 3102924)",,RR5/6,,JIS,2,2400,1200,1490,150.0,4,
+142,3083518,JIS,"Bumper Front
+(Successor to 3102912)",,RR5/6,,OBSOLETE,,2200,800,1490,180.0,4,
+143,3083519,Special,Covering Windscreen RR5,,RR5,,MUC,,1610,800,990,170.0,1,
+144,3083520,Special,Stahl Abdeckung Windlauf (Covering windshield panel),,RR5/6,,NUE,,1700,800,1450,230.0,1,
+145,3083521,Special,Oddments tray RR5,V3083521A,RR5/6,,MUC,,794,596,320,4.0,1,65
+146,3083525,JIS,"RR5 glass roof container
+Frame lifting sunroof",,RR5,,OBSOLETE,,1200,800,1450,150.0,3,
+147,3083526,Special,"Radiator Grill
+RR4/RR5",V3083526A,RR4/5,,AAH,,950,580,205,2.0,1,66
+148,3083527,Special,RR5 rear quarter glass container,,RR5/6,,AAH,,1200,800,1000,110.0,1,
+149,3083528,Special,RR5 Door Glass,,RR5/6,,BER,,1420,800,990,150.0,1,
+150,3083529,Special,Steel finisher side frame RR5,,,,AAH,,2800,800,480,180.0,1,
+151,3083531,Special,COVERING FINISHERS/COVERINGS SEAT/SEAT RAIL 7304399,V3083531A,RR5/6,,NUE,,300,200,147,2.0,1,67
+152,3083532,Special,COVERING FINISHERS/COVERINGS SEAT/SEAT RAIL 7304405,V3083532A,RR5/6,,NUE,,300,200,147,2.0,1,68
+153,3083533,Special,WAISTLINE COVER DOOR FRT,V3083533A,,,AAH,,1200,400,90,1.0,1,69
+154,3083534,Special,GASKET COVERINGS/SEALINGS DOOR CAVITY FRONT,,RR5/6,,OBSOLETE,,1600,1200,750,80.0,,70
+155,3083535,Special,Finisher Webbing Outlet Rear,V3083535A,RR5/6,,BER,,600,400,147,5.0,1,71
+156,3083537,Special,Cover seat belt upper seat front,V3083537A,RR5/6,,NUE,,400,300,147,1.0,1,72
+157,3083538,Special,FINISHER FINISHERS/COVERINGS SEAT/SEAT RAIL 7304421,V3083538A,RR5/6,,NUE,,600,400,130,2.0,1,73
+158,3083539,Special,FINISHER FINISHERS/COVERINGS SEAT/SEAT RAIL 7304419,V3083539A,RR5/6,,NUE,,800,600,210,5.0,1,74
+159,3083541,Special,Top shoulder side trim panel outer 7306859,V3083541A,RR5/6,,BER,,1220,400,61,1.0,1,75
+160,3083542,Special,Top shoulder side trim panel outer 7306879,V3083542A,RR5/6,,BER,,800,300,147,2.0,1,76
+161,3083544,Special,"Glas lid pop-up roof
+RR5",V3083544A,RR5/6,,AAH,,1220,835,995,120.0,1,77
+162,3083545,Special,Grate air intake,V3083545A,RR5/6,,MUC,,600,400,147,3.0,1,78
+163,3083549,Special,WAISTLINE COVER RR,V3083549A,,,AAH,,600,400,150,1.0,1,79
+164,3083550,Special,Handle door outer door front,V3083550A,RR5/6,,AAH,,600,400,147,3.0,1,80
+165,3083551,Special,Umbrella case,V3083551A,Both,,MUC,,1200,400,210,2.0,1,81
+166,3083552,Special,"SIDE WINDOW DOOR WINDOWS FRONT FIXED
+(Obsolete)",,RR5/6,,OBSOLETE,,800,600,210,4.0,,
+167,3083553,Special,LH Tail Light RR5/6,V3083553A,RR5/6,,FRADLEY,,600,400,280,5.0,1,82
+168,3083554,Special,RH Tail Light RR5/6,V3083554A,RR5/6,,FRADLEY,,600,400,280,4.0,1,83
+169,3083556,Special,COVERING FINISHERS/COVERINGS SEAT/SEAT RAIL 7304401,V3083556A,RR5/6,,NUE,,400,300,147,2.0,1,84
+170,3083557,Special,Finisher ashtray center console 9261640,V3083557A,RR5/6,,MUC,,300,200,147,1.0,1,85
+171,3083558,Special,Sound insulation bulkhead load space,V3083558A,RR5/6,,AAH,,1600,1200,990,100.0,1,86
+172,3083559,Special,Finisher center console carpet RR5,V3083559A,RR5/6,,MUC,,1200,800,500,50.0,1,87
+173,3083560,Special,SEAT FINISHERS/COVERINGS SEAT/SEAT RAIL,V3083560A,RR5/6,,NUE,,600,400,280,3.0,1,88
+174,3083562,Special,GUIDE WINDOW GUIDE/RAIL/WEB FRONT,V3083562A,RR5/6,,AAH,,600,400,147,2.0,1,89
+175,3083568,Special,Finisher switch RR5,V3083568A,RR5/6,,BER,,800,600,220,5.0,1,90
+176,3083570,Special,HANDLE TRIM PANEL/ARMREST/ARMREST HANDLE FRONT DOOR,V3083570A,RR5/6,,BER,,800,600,120,5.0,1,91
+177,3083619,Special,ACP IHKA ECU,V3083619A,RR5/6,,AAH,,594,396,147,7.0,1,92
+178,3083678,Special,Switch block seat adjustment,,RR5/6,,OBSOLETE,,600,400,280,4.0,,93
+179,3083743,Special,"RR4 Windscreen
+(Container owned by S-G)",,RR5/6,,NUE,,2000,1100,1300,200.0,1,
+180,3083758,Special,ESD KLT,V3083758A,RR5/6,,AAH,,600,400,150,2.5,1,94
+181,3083802,Special,"Carrier Headrest
+(End of Production)",,RR5/6,,OBSOLETE,,570,320,220,3.0,,
+182,3083819,Special,"Audio Conrol Panel ACP SII
+(End of Production)",,RR5/6,,OBSOLETE,,594,396,147,2.0,,95
+183,3083853,Special,Function Unit Monitor SII,V3083853A,RR5/6,,MUC,,600,400,150,2.0,1,96
+184,3083858,Special,"SI Door (RR4, front and rear)",V3083858A,RR5/6,,NUE,,1200,800,185,9.0,1,97
+185,3084366,Special,RR4/5 Head Light Left,V3084366A,RR5/6,,NUE,,600,400,280,2.0,1,98
+186,3084367,Special,RR4/5 Head Light Right,V3084367A,RR5/6,,NUE,,600,400,280,3.0,1,99
+187,3085007,Special,Compressor (multiple Derivatives),V3085007A,RR11/12/31,,AAH,,800,597,170,7.0,1,100
+188,3085550,Special,Light-KLT el. leitend für KAFAS 2 L7 L6,V3085550A,RR5/6,,AAH,,600,400,150,2.0,1,101
+189,3100008,Special,Front Bumper Carrier,,RR5/6,,AAH,,1580,1220,1450,170.0,1,
+190,3100016,BMW Standard,"Solid Container
+",,All BMW Derivatives,,,,1240,840,675,90.0,1,102
+191,3100062,BMW Standard,"EURO-POOL-FLACHPALETTE
+3100062",V3100062A,All BMW Derivatives,,OXFORD,,1200,800,144,25.0,1,103
+192,3100104,Special,Passenger Airbag Module,,RR5/6,,MUC,,1240,820,990,250.0,1,
+193,3100109,Special,"Display entertainment rear
+(End of Production)",,RR5/6,,OBSOLETE,,350,170,220,1.0,,
+194,3100135,Special,SWITCH CLUSTER STEERING COLUMN,V3100135A,RR5/6,,MUC,,790,590,173,1.5,1,104
+195,3100158,Special,radiator cpl,,RR5/6,,BER,,1200,1820,930,190.0,1,
+196,3100163,Special,SFFG SCHACHTABDECKUNG ALLE PL,V3100163A,RR5/6,,BER,,1180,390,160,5.0,1,105
+197,3100201,Special,"central headunit and multimedia platform
+(End of Production)",,RR5/6,,OBSOLETE,,590,395,275,1.0,,
+198,3100204,Special,Seat Frame/Foam/Wire,,BMW,,OBSOLETE,,1600,1200,1450,182.0,,106
+199,3100212,Special,"RR4 - CID HIGH SYMMETRICAL W FINISHER
+(End of Production)",,RR5/6,,OBSOLETE,,585,395,120,1.0,,
+200,3100304,Special,AIR BAG MODULE PS,V3100304A,RR5/6,,AAH,,1240,835,990,230.0,1,107
+201,3100345,Special,"Exhaust Container
+(Not for R-R but Aftersales often order)",,,,OBSOLETE,,3920,1200,1490,650.0,9,
+202,3100349,Special,USB HUB POWER CHARGER,V3100349A,,,BER,,585,395,83,0.4,1,108
+203,3100374,Special,WIPER BLADE WINDSHIELD WIPERS _BFS RR5,V3100374A,RR5/6,,AAH,,780,580,120,1.5,1,109
+204,3100383,BMW Standard,Plastic Sheet,V3100383A,All BMW Derivatives,,,,1190,790,6,1.0,1,110
+205,3100407,Special,LU RSE,V3100407A,RR31,,NUE,,395,295,240,0.7,1,111
+206,3100410,BMW Standard,Outer Container for Vacuum Trays,,All BMW Derivatives,,,,1220,820,990,79.0,1,
+207,3100429,Special,Battery Pallet,,,,MUC,,,,,,1,
+208,3100434,JIS,"Heater & AC Unit
+RR5/6",,RR11/12/31,,JIS,8,1600,835,1230,190.0,10,
+209,3100457,Special,ASSY TV-MODULE DVB-T RSE,V3100457A,Both,,BER,,395,295,215,1.0,1,112
+210,3100464,Special,ASSY REAR PTC AUXILIARY HEATER ,,RR5/6,,BER,,757,563,95,2.0,,113
+211,3100508,BIW,RR4 Windscreen (BIW),,RR5/6,,,,2000,1100,1300,200.0,1,
+212,3100511,BMW Standard,"GLT
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1240,835,990,110.0,,
+213,3100523,Special,"Central Bass Speaker :
+1 x 3104444 with 12 inserts",V3100523A,RR5/6,,NUE,,770,570,117,1.0,1,114
+214,3100542,Special,ASSY VSW ECU LOW,V3100542A,RR5/6,,BER,,595,395,147,1.0,1,115
+215,3100557,Special,EPP - I-Drive,V3100557A,RR5/6,,AAH,,585,390,110,1.0,1,116
+216,3100589,Special,DELIVERY PART N74 BASE ECU C-SAMPLE,V3100589A,RR5/6,,NUE,,395,295,230,0.5,1,117
+217,3100590,BMW Standard,"Gurtautomat
+PART OF LOAD UNIT",,BMW,,,,1240,835,970,187.0,1,
+218,3100627,Special,"ARS-Ventilblock EPP F01/02
+Valve block Active Roll Stabilization (ARS)
+",V3100627A,RR5/6,,AAH,,595,395,220,2.0,1,118
+219,3100636,Special,"ECU ICM-V HIGH
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,147,1.0,,119
+220,3100662,BMW Standard,Large Gitterbox,,,,,,1800,1200,1000,114.0,1,
+221,3100670,BMW Standard,Grossraumbehaelter,,All BMW Derivatives,,,,1800,1200,1660,128.0,1,
+222,3100671,BMW Standard,Oversized Gitterbox,,All BMW Derivatives,,OXFORD,,1800,1235,730,151.0,1,
+223,3100677,Special,RR4 - Lock rotary-latch left,V3100677A,All BMW Derivatives,,AAH,,595,395,165,1.0,1,120
+224,3100678,Special,RR4 - Lock rotary-latch right,V3100678A,All BMW Derivatives,,AAH,,595,395,165,1.0,1,121
+225,3100906,BIW,RR1 Rear Panel (BIW),,BMW,,MUC,,2400,1200,1760,297.0,1,
+226,3101010,BMW Standard,Hybridbox,V3101010A,All BMW Derivatives,,,,1235,835,985,59.0,1,122
+227,3101036,Special,Auxilliary switch seat adjustment (passengers side RR4 & RR5),V3101036A,RR5/6,,BER,,590,395,70,1.0,1,123
+228,3101087,Special,"Rear Side Panelling
+(End of Production)",,RR2,,OBSOLETE,,,,,,,
+229,3101191,BIW,Assy LH Side Panel RR CPL Primed (BIW),,BIW,,,,2400,1200,1760,360.0,1,
+230,3101192,BIW,Assy RH Side Panel RR CPL Primed (BIW),,BIW,,,,2400,1200,1760,360.0,1,
+231,3101208,BMW Standard,Deckel fuer Ladeeinheiten,V3101208A,All BMW Derivatives,,OXFORD,,1210,810,95,6.0,1,124
+232,3101272,Special,Control unit Rear view camera,V3101272A,RR5/6,,FRADLEY,,590,390,95,1.0,1,125
+233,3101287,Special,"Central Bass Speaker :
+1 Gitter box with 12 inserts",,RR5/6,,OBSOLETE,,770,570,117,1.0,,126
+234,3101363,Special,Airbag Control Unit,V3101363A,All BMW Derivatives,,AAH,,603,400,120,4.0,1,127
+235,3101400,BMW Standard,SFFG Flügeltürbehälter,,RR5/6,,,,1200,1200,1000,162.0,1,
+236,3101416,Special,"ASSY COVER LID SEALING FRAME
+(End of Production)",,RR5/6,,OBSOLETE,,710,600,145,1.0,,
+237,3101433,BIW,RR4 Left Body Frame,,RR4,,,,440,1200,1660,504.0,1,
+238,3101468,Special,"Wiper Arm front BFS
+(End of Production)",,RR5/6,,OBSOLETE,,800,600,110,1.0,,
+239,3101506,BMW Standard,NOT USED AT R-R,,,,OBSOLETE,,,,,,,
+240,3101530,Special,PARTITION WALL TRUNK,,RR5/6,,OBSOLETE,,1600,1200,1200,215.0,,
+241,3101575,BIW,Painted Body Module AF Rear System,V3101575A,RR31,,,,1155,745,70,3.0,1,128
+242,3101611,Special,Various Door Seals,V3101611A,All Derivatives,,BER,,1200,800,185,9.0,1,129
+243,3101634,Special,Wiper arm front FS,,RR5/6,,OBSOLETE,,790,585,100,1.0,,130
+244,3101642,Special,wiper blade front BFS,,RR5/6,,OBSOLETE,,790,585,60,1.0,,131
+245,3101714,Special,WIPER BLADE WINDSHIELD WIPERS FS,V3101714A,RR31,,AAH,,800,600,60,1.0,1,132
+246,3101756,Special,Bracket Distribution Box,V3101756A,,,AAH,,1200,800,50,1.3,1,133
+247,3101758,Special,"ASSY COVER LID SEALING FRAME
+(End of Production)",,RR5/6,,OBSOLETE,,710,600,145,1.0,,
+248,3101772,Special,EYE LASHING EYES/LUGGAGE SECURING,,RR5/6,,OBSOLETE,,396,297,147,1.0,,134
+249,3101812,BMW Standard,Langgutstahlbehälter 2650mm,,,,,,2885,820,500,155.0,1,
+250,3101859,BMW Standard,BMW Standard Metal Umbe for EPP's,,,,,,1220,835,500,99.0,1,
+251,3101860,BMW Standard,BEHÄLTER FÜR EPP.TABLETTS,,All BMW Derivatives,,,,1220,835,935,132.0,1,
+252,3101881,Special,Black KLT,V3101881A,All BMW Derivatives,,MUC,,599,399,117,1.8,1,135
+253,3101946,BMW Standard,RACK with GITTER (extended),,All BMW Derivatives,,,,2000,1600,1010,300.0,1,
+254,3101977,BMW Standard,"Painted Body Other
+(End of Production)",,RR31,,OBSOLETE,,1550,1100,200,5.0,,
+255,3102012,BMW Standard,UNIVERSAL-GITTERCONTAINER LAPPBAR MITT,,All BMW Derivatives,,OXFORD,,1600,1200,990,160.0,1,
+256,3102157,Special,Door Seal RR4/5/6,,All BMW Derivatives,,AAH,,1200,390,210,5.0,1,136
+257,3102210,Special,"LU FOAM I-PNL
+FOAM LAYER DOOR PANEL",V3102210A,RR5/6,,AAH,,1500,600,170,10.0,1,137
+258,3102282,JIS,"Backup Engine Racks (BIW)
+(used if 3080400 are not available)",,All,,OBSOLETE,,2200,1700,1100,290.0,2,
+259,3102313,Special,Pump PAS,V3102313A,All BMW Derivatives,,AAH,,800,600,190,4.0,1,138
+260,3102317,BMW Standard,Plastic Lid for Tray,,All BMW Derivatives,,,,1180,780,5,1.0,1,
+261,3102334,JIS,Wiring Harness Bag,,BMW,,OBSOLETE,,1140,440,320,5.0,6,
+262,3102335,JIS,Main Wiring Harness ,V3102335A,BMW,,JIS,10,1185,495,340,5.0,6,139
+263,3102394,Special,Advanced Head Protection System (AHPS) Front,V3102394A,RR5/6,,NUE,,1160,780,83,4.5,1,140
+264,3102627,Special,Oil cooler gearbox / GWWT,V3102627A,BMW,,BER,,600,400,147,2.0,1,141
+265,3102912,JIS,"Bumper Front
+(Obsolete - replaced by 3083518)",,RR4/5/6,,OBSOLETE,,2000,800,1500,180.0,4,
+266,3102924,JIS,"Bumper Rear
+(Obsolete - replaced by 3083517)",,RR4/5/6,,OBSOLETE,,2000,800,1500,180.0,4,
+267,3102941,JIS,"Panoramic Sunroof RR31 & RR4
+(Obsolete and succeeded by 6208431)",,RR5/6,,OBSOLETE,,1600,1220,1480,250.0,,
+268,3102952,JIS,"RR4 Headliner
+(OBSOLETE - RR4 Only)",,RR4,,OBSOLETE,,1450,1200,2500,320.0,3,
+269,3102966,Special,Actuator heater/AC unit rear,V3102966A,RR5/6,,AAH,,594,396,147,2.0,1,142
+270,3102970,JIS,"Carpets RR4
+(Obsolete, succeeded by 6204680)",,RR4,,OBSOLETE,,1580,1600,1510,222.0,,
+271,3103011,JIS,Covering Sill Panel RR4/5/6,,RR4/5/6,,JIS,2,3000,820,850,250.0,4,
+272,3103026,Special,"ASSY SUPPORT STRUCTURE
+RR6",,RR5/6,,NUE,,1600,1200,1450,170.0,1,
+273,3103075,JIS,"Heater & AC Unit
+RR4-6
+(End of Production)",,RR4/5/6,,OBSOLETE,,1910,1210,1020,270.0,10,
+274,3103102,JIS,"Rear parcel shelf
+RR4",,RR4,,JIS,7,1600,1200,870,174.0,8,
+275,3103136,JIS,"Finisher Side Frame RH RR4
+(Obsolete - RR4 Only)",,RR4,,OBSOLETE,,3000,820,480,150.0,4,
+276,3103147,BMW Standard,L-KLT,V3103147A,All BMW Derivatives,,OXFORD,,297,198,147,1.0,1,143
+277,3103148,BMW Standard,ESD KLT,V3103148A,All BMW Derivatives,,MUC,,297,198,147,0.5,1,144
+278,3103149,JIS,"Finisher Side Frame LH RR4
+(Obsolete - RR4 Only)",,RR4,,OBSOLETE,,3000,820,480,150.0,4,
+279,3103153,Special,Underside paneling LH/RH,,RR31,,AAH,,2000,820,995,194.0,1,
+280,3103157,Special,"glas lid pop-up roof
+RR4",V3103157A,RR5/6,,AAH,,1170,790,125,5.0,1,145
+281,3103161,Special,Armature / SUPPORT BUMPER REAR,,RR5/6,,BER,,1680,1200,1480,100.0,1,
+282,3103166,Special,B+ Cable RR5/6,,RR4/5/6,,AAH,,4500,800,995,410.0,1,
+283,3103167,JIS,"Fuel tank
+RR4/5/6",,RR4/5/6,,JIS,6,1600,1580,1510,100.0,2,
+284,3103168,JIS,Rear Axle RR4/5/6,,RR4/5/6,,JIS,11,2400,2000,487,220.0,3,
+285,3103210,BMW Standard,Kunststoff GLT faltbar,,All BMW Derivatives,,,,1235,835,967,38.0,1,
+286,3103214,BMW Standard,VLE.f.3214 (96/0062),V3103214A,All BMW Derivatives,,,,300,200,147,1.0,1,146
+287,3103270,Special,Steering Column,V3103270A,RR5/6,,AAH,,1170,780,215,5.0,1,147
+288,3103303,JIS,"Pallet
+(with 3109599)",,RR4/5/6,,JIS,6,1600,1200,50,11.0,2,
+289,3103523,Special,Leather Horse (BIW),,ALL,,BER,,3000,1200,1850,354.0,1,
+290,3103568,Special,Heater & AC Unit,,RR5/6,,OBSOLETE,,1240,835,990,105.0,,
+291,3103656,BMW Standard,Large container,,All BMW Derivatives,,,,2000,1200,1010,235.0,1,
+292,3103696,BMW Standard,Large Gitterbox,,All BMW Derivatives,,,,2000,1400,1010,245.0,1,
+293,3103708,BMW Standard,"Solid Container
+half size",,BMW,,,,840,640,615,55.0,1,
+294,3103725,BMW Standard,VOLLWANDBEHAELTER GROSS,,All BMW Derivatives,,,,1230,830,970,125.0,1,
+295,3103835,Special,EPP-Beh. Schalter CL&HKL,V3103835A,RR5/6,,AAH,,590,390,70,1.0,1,148
+296,3104102,BMW Standard,Langgut-StahlFFG 2240mm Leitungen,,RR5/6,,,,2240,825,500,140.0,1,
+297,3104128,Special,"Front Wiper Lever
+(End of Production, Obsolete)",,RR11/12,,OBSOLETE,,1190,790,85,1.0,,
+298,3104147,BMW Standard,L-KLT,V3104147A,All BMW Derivatives,,OXFORD,,396,297,147,1.0,1,149
+299,3104148,BMW Standard,ESD-KLT,V3104148A,All BMW Derivatives,,MUC,,396,297,177,1.0,1,150
+300,3104177,JIS,"Lid
+(with 3109599)",,RR4/5/6,,JIS,6,1600,1200,170,2.0,2,
+301,3104193,BMW Standard,Kraftstoffleitungen,,All BMW Derivatives,,,,1640,835,485,130.0,1,
+302,3104280,BMW Standard,Light-KLT,V3104280A,All BMW Derivatives,,,,396,297,280,1.4,1,151
+303,3104286,BMW Standard,ESD KLT,V3104286A,All,,MUC,,400,300,280,1.4,1,152
+304,3104288,Special,ZB DSC/DXC9 -D L6,V3104288A,RR5/6,,AAH,,400,300,213,4.0,1,153
+305,3104314,Special," VDA-KLT
+(Container owned by Bosch)",V3104314A,All BMW Derivatives,,BER,,400,300,147,2.0,1,154
+306,3104328,BMW Standard,VDA-KLT,V3104328A,All BMW Derivatives,,,,400,300,280,3.0,1,155
+307,3104413,,EPP-Ladungsträger Drehfallenschl. Left ,,All BMW Derivatives,,OBSOLETE,,590,395,200,1.0,,156
+308,3104436,BIW,Container for Front and Rear Doors (BIW),,BIW,,,,2400,1400,1760,300.0,1,
+309,3104444,BMW Standard,BMW Gibo violett,,All BMW Derivatives,,CMS,,1240,835,970,90.0,1,
+310,3104495,BIW,Container for Boot (BIW),,BIW,,,,2000,1200,1510,360.0,1,
+311,3104551,Special,"Front Wiper
+(End of Production)",,RR11/12,,OBSOLETE,,1190,790,85,1.0,,
+312,3104594,Special,"Umbrella RR2/3
+(End of Production)",,RR2/3,,OBSOLETE,,1195,395,190,3.0,,
+313,3104643,JIS,Engine Cone Adaptor,V3104643A,All BMW Derivatives,,JIS,6,300,200,200,6.2,2,157
+314,3104799,BIW,Bonnet Container RR2/3 (BIW),,BIW,,,,1900,1850,1500,714.0,1,
+315,3104802,BMW Standard,Plastic Divider Sheet,V3104802A,All BMW Derivatives,,OXFORD,,1200,800,3,1.0,1,158
+316,3104880,Special,fan shroud radiator,V3104880A,RR5/6,,AAH,,1195,835,755,7.0,1,159
+317,3105185,,Behaelter for EPPs,,All BMW Derivatives,,OBSOLETE,,1500,835,500,100.0,,
+318,3105307,Special,"RR01 Exhaust Container
+(End of Production, Obsolete)",,,,OBSOLETE,,5000,1600,1480,600.0,,160
+319,3105309,BIW,Karossenwagen (BIW),,BIW,,,,4960,1200,400,400.0,1,
+320,3105325,BMW Standard,Container for Tank Flap,,All BMW Derivatives,,,,1230,830,755,36.0,1,161
+321,3105328,BMW Standard,Layer sheet for Tank flap container,V3105328A,All BMW Derivatives,,,,1155,745,4,1.0,1,162
+322,3105332,BMW Standard,Kunststoffbehälter für Rolls Royce Teile,,All BMW Derivatives,,,,1600,1200,740,55.0,1,
+323,3105338,BMW Standard,"Zwischenlage für 3105332
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1540,1160,4,1.4,,
+324,3105340,BMW Standard,"Gefach  für Behälter 3105325
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1155,745,150,2.4,,
+325,3105344,BMW Standard,"Gefach  für Behälter 3105325
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1155,745,250,3.1,,163
+326,3105345,BMW Standard,"Gefach  für Behälter 3105325
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1155,745,220,1.4,,
+327,3105347,BMW Standard,Gefach  für Behälter 3105332,V3105347A,All BMW Derivatives,,,,1540,1140,375,6.2,1,164
+328,3105348,BMW Standard,"Gefach  für Behälter 3105332
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1540,1140,250,3.8,,165
+329,3105570,Special,Front Axle RR31/21/22,,,,MUC,,1400,900,1000,180.0,1,166
+330,3105702,Special,"ROOF ANTENNA GPS
+(Obsolete - RR4 Only)",,RR5/6,,OBSOLETE,,600,400,101,0.5,,167
+331,3105724,BMW Standard,Langgutkassette 4.5m lang,,BMW,,,,4500,620,360,175.0,1,
+332,3105756,BMW Standard,Plastic net,V3105756A,All BMW Derivatives,,,,1180,780,4,0.9,1,168
+333,3105860,BMW Standard,KU-EINHÄNGEBODEN MIT ALU UNTERZÜGEN,V3105860A,All BMW Derivatives,,,,1180,740,30,3.0,1,169
+334,3106072,Special,Blower,V3106072A,RR5/6,,MUC,,800,600,206,5.0,1,170
+335,3106133,,EPP Tray Roof Antenna,,All BMW Derivatives,,OBSOLETE,,580,400,110,1.0,,171
+336,3106147,BMW Standard,Standard KLT,V3106147A,All BMW Derivatives,,OXFORD,,594,396,147,2.0,1,172
+337,3106148,BMW Standard,VDA-KLT,V3106148A,All BMW Derivatives,,MUC,,594,396,147,2.0,1,173
+338,3106266,BMW Standard,Standard GLT,,All BMW Derivatives,,,,1600,1200,1450,148.0,1,174
+339,3106270,BMW Standard,Standard Gittercontainer Foldable,,All BMW Derivatives,,OXFORD,,1600,1200,730,125.0,1,
+340,3106280,BMW Standard,Light KLT (L-KLT),V3106280A,All BMW Derivatives,,,,594,396,280,3.0,1,175
+341,3106286,BMW Standard,Klappenadaptor,,All BMW Derivatives,,OXFORD,,1240,835,500,78.0,1,176
+342,3106341,Special,ESD-EPP for LU CIC ECE/US/Asia,,BMW,,OBSOLETE,,600,400,275,1.0,,177
+343,3106395,Special,Hochtöner hinten PP-Behälter mit Gefache,V3106395A,RR5/6,,NUE,,600,400,95,1.0,1,178
+344,3106410,BMW Standard,Falt-KLT 600x400,V3106410A,All BMW Derivatives,,OXFORD,,594,396,280,3.5,1,179
+345,3106411,BMW Standard,KLT,V3106411A,All BMW Derivatives,,MUC,,594,396,280,3.0,1,180
+346,3106412,BMW Standard,Falt-KLT 600x400,V3106412A,All BMW Derivatives,,,,594,396,280,3.5,1,181
+347,3106418,Special,ECM DSC,V3106418A,All BMW Derivatives,,AAH,,594,396,280,1.0,1,182
+348,3106428,BMW Standard, VDA - KLT  ,V3106428A,All BMW Derivatives,,,,600,400,280,4.5,1,183
+349,3106598,JIS,"Propshaft
+RR4/5/6/11/12/31",,ALL,,JIS,10,2800,1200,1000,280.0,6,184
+350,3106648,Special,KLT 1200X400X147,V3106648A,All BMW Derivatives,,MUC,,1200,400,147,4.0,1,185
+351,3106719,Special,Engine Adapter Boards,V3106719C,All BMW Derivatives,,,,580,755,70,2.4,1,186
+352,3106757,BIW,Container for Wings (BIW),,BIW,,,,2100,1220,1250,200.0,1,
+353,3106764,Special,Speaker Container,V3106764A,All BMW Derivatives,,MUC,,585,395,87,0.5,1,187
+354,3106888,Special,Front wing (spares),,BIW,,NUE,,2100,1220,1250,200.0,1,188
+355,3106889,Special,Front wing (spares),,BIW,,OBSOLETE,,2100,1220,1250,200.0,,
+356,3106893,BMW Standard,"Gefach  für Behälter 3105325
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1160,750,250,2.0,,
+357,3106966,Special,Folie f. ZB Bremsgeraet,V3106966A,RR5/6,,AAH,,1190,790,50,2.5,1,189
+358,3106969,BMW Standard,"GLT-2000
+",,All BMW Derivatives,,OXFORD,,1240,835,990,85.0,1,190
+359,3106977,Special,"Cooling module
+RR4/5/6",,RR5/6,,BER,,1820,1200,930,170.0,1,
+360,3106981,,Bremsleitungen,,All BMW Derivatives,,OBSOLETE,,3450,500,400,120.0,,
+361,3106994,Special,"L-KLT
+(Container owned by Bosch)",V3106994A,All BMW Derivatives,,BER,,600,400,220,2.5,1,191
+362,3107028,BMW Standard,"Einsatz für 3105332
+(End of Production)",,All BMW Derivatives,,OBSOLETE,,1600,1200,740,58.0,,192
+363,3107088,,V-Deuse u. Kappe-Drehst. Epp Einlage,,All BMW Derivatives,,OBSOLETE,,390,290,275,1.0,,193
+364,3107090,,Drehsteller EPP Einlage,,All BMW Derivatives,,OBSOLETE,,390,290,275,1.0,,194
+365,3107232,Special,Deckel EPP-Behälter el.leitf. Für 6204051,V3107232A,RR11/12/31/21/22,,NUE,,585,395,20,0.2,1,195
+366,3107244,BMW Standard,"ASSY FILTERED AIR BELLOWS N74B66
+COVERING ACOUSTIC COVER INTAKE MANIFOLD(RR5)",V3107244A,All BMW Derivatives,,,,920,785,50,0.5,1,196
+367,3107323,Special,EPP tray middle tone horn,V3107323A,RR5/6,,NUE,,600,400,100,1.0,1,197
+368,3107336,Special,"Wheels & Tyres
+(End of Production, Obsolete)",,Obs,,OBSOLETE,,1400,1000,1000,150.0,,198
+369,3107432,Special,SOE Container,V3107432A,Both,,FRADLEY,,400,200,120,2.5,1,199
+370,3107490,Special,Antennae cover (NOT USED AT R-R),,RR5/6,,OBSOLETE,,600,400,101,0.5,,200
+371,3107590,BMW Standard,Vollwandbehaelter,,All BMW Derivatives,,,,3200,1200,750,304.0,1,201
+372,3108210,BMW Standard,L-KLT ,V3108210A,All BMW Derivatives,,OXFORD,,800,600,210,4.5,1,202
+373,3108269,Special,"PARTITION WALL CONTAINER RR12
+(owned by KET/Riemensperger)",,,,NUE,,1900,840,1030,80.0,1,
+374,3108458,Special,Accelerator Pedal Module,V3108458A,RR11/12/31,,AAH,,790,595,125,2.0,1,203
+375,3108540,Special,Vollwandbehälter f.Spuelluftltg.PZEV,,,,BER,,3600,1200,750,351.0,1,
+376,3108652,Special,Centre Console Function Unit,V3108652A,RR5/6,,MUC,,594,396,280,2.7,1,204
+377,3108786,JIS,Plastic Hood For Engine,V3108786A,All BMW Derivatives,,JIS,6,100,100,100,2.0,2,205
+378,3108920,Special,"Conicle Adaptor N73
+(not R-R relevant)",,RR5/6,,OBSOLETE,,1200,800,1000,5.0,,206
+379,3108961,Special,Steering Column EPP,V3108961A,All BMW Derivatives,,NUE,,800,600,168,1.2,1,207
+380,3109004,Special,Heat exchanger,V3109004A,RR5/6,,AAH,,600,400,120,2.0,1,208
+381,3109027,JIS,"Carpet Container
+RR4
+(End of Production)",,RR4,,OBSOLETE,,1800,2000,1480,250.0,,209
+382,3109085,Special,RR4 Picnic table ,V3109085A,RR5/6,,MUC,,594,396,280,5.0,1,210
+383,3109151,Special,"Ornamental Strip Bonnet
+(End of Production - RR4 only)",,,,OBSOLETE,,1200,800,70,5.0,,211
+384,3109397,BMW Standard,Standard Lid for Vacuum Tray Outer Container,,All BMW Derivatives,,,,800,600,25,2.0,1,
+385,3109460,Special,"METAL CONTAINER FOR
+COVERING CABLE DUCT",,BMW,,MUC,,2650,830,500,160.0,1,
+386,3109523,BIW,RR2 Door Replacement (BIW),,BIW,,,,2400,1550,1160,380.0,1,
+387,3109568,Special,"RR2 TRUNK LID UPPER (BIW)
+(End of Production, Obsolete)",,BIW,,OBSOLETE,,1380,780,135,3.0,,
+388,3109569,Special,"RR2 TRUNK LID BOTTOM (BIW)
+(End of Production, Obsolete)",,BIW,,OBSOLETE,,1380,780,190,3.0,,212
+389,3109599,JIS,"Main Wiring Harness
+RR4-6",V3109599A,RR4/5/6,,JIS,6,1600,400,420,10.5,2,213
+390,3109811,Special,"Gearbox
+gearbox / transmission automatic
+AA00573440",,BMW,,OBSOLETE,,1220,1000,1100,152.0,,
+391,3109833,JIS,Cockpit Wiring Harness Bag,V3109833A,RR4/5/6,,JIS,6,600,420,60,1.0,2,
+392,3109835,Special,"Large Hinges
+(no longer required by Aalflex)",,RR11/12,,OBSOLETE,,594,396,280,2.8,,
+393,3109836,Special,"Trim Panel Centre Console RR31
+(no longer required by TSG)",,RR31,,OBSOLETE,,594,396,147,1.8,,214
+394,3109945,BMW Standard,Half Umbehaelter 1400 for EPP,,All BMW Derivatives,,,,1400,820,500,100.0,1,
+395,3109946,BMW Standard,Umbehaelter 1400 for EPP,,All BMW Derivatives,,,,1400,820,995,145.0,1,
+396,3109955,BMW Standard,Half Umbehaelter 1500 for EPP,,All BMW Derivatives,,,,1500,820,500,115.0,1,
+397,3109956,BMW Standard,Umbehaelter 1500 for EPP,,All BMW Derivatives,,,,1500,820,995,159.0,1,
+398,3109965,BMW Standard,Half Umbehaelter 1600 for EPP,,All BMW Derivatives,,,,1600,820,500,120.0,1,215
+399,3109966,BMW Standard,Umbehaelter 1600 for EPP,,All BMW Derivatives,,,,1600,820,995,159.0,1,
+400,3109985,BMW Standard,Half Umbehaelter 1800 for EPP,,All BMW Derivatives,,,,1800,820,500,126.0,1,
+401,3109986,BMW Standard,Umbehaelter 1800 for EPP,,All BMW Derivatives,,,,1800,820,995,185.0,1,
+402,6200011,JIS,"Wheels 22""
+RR11/12/31/2X",,All Variants,,JIS,9,1400,860,1000,90.0,5,
+403,6200149,BMW Standard,Large Gitter Rack,,All BMW Derivatives,,,,2000,1600,1000,250.0,1,
+404,6200616,Special,Water Pump RR11/12,V6200616A,RR11/12,,AAH,,600,400,147,2.0,1,216
+405,6200635,Special,KLT Sensor,V6200635A,RR5/6,,NUE,,600,400,150,2.0,1,217
+406,6200838,Special,EPP container ESD NBT,V6200838A,RR5/6,,NUE,,600,400,235,1.0,1,218
+407,6200869,Special,"Gearbox
+gearbox / transmission automatic
+AA01065599",,RR5/6,,AAH,,1220,1000,1100,152.0,1,
+408,6200960,Special,ESD NBT EVO,V6200960A,RR5/6,,NUE,,600,400,220,2.0,1,219
+409,6201142,Special,Steering Shaft Bottom,V6201142A,All BMW Derivatives,,AAH,,600,800,80,2.7,1,220
+410,6201490,Special,KLT waistline cover,V6201490A,,,AAH,,400,300,150,1.0,1,221
+411,6201494,Special,I-combi with HUD RR5,V6201494A,RR5,,AAH,,600,400,250,3.0,1,222
+412,6201530,Special,"Carrier mirror front
+RR5",,RR5/6,,BER,,1270,820,550,10.0,1,
+413,6201531,Special,"Carrier mirror rear
+RR5",,RR5/6,,BER,,1270,820,550,10.0,1,
+414,6201536,Special,"Control Pot
+RR5",V6201536A,RR5/6,,MUC,,800,600,210,1.0,1,223
+415,6201545,Special,IONISATOR ECU ,V6201545A,RR11/12,,NUE,,600,400,125,1.0,1,224
+416,6201560,JIS,RR5 rear towing eye cover,,RR5,,OBSOLETE,,400,300,150,3.0,4,
+417,6201569,Special,Steering wheel,V6201569A,RR5/6,,AAH,,600,400,425,4.5,1,225
+418,6201585,Special,A-Pillar covering RR5,V6201585A,RR5/6,,AAH,,600,400,240,4.0,1,226
+419,6202200,BMW Standard,Plastic Lid,,All BMW Derivatives,,,,800,600,24,2.0,1,
+420,6202314,Special,"Rear JBR. EPP tray
+RR11/12",V6202314A,RR11/12,,AAH,,585,395,98,1.0,1,227
+421,6202332,Special,Transfer Case,,All BMW Derivatives,,MUC,,1220,1020,1250,135.0,1,
+422,6202377,BMW Standard,RACK with GITTER 2000,,All BMW Derivatives,,,,2000,1200,1010,235.0,1,
+423,6202548,Special,RR6 Rear Tonneau,,RR6,,MUC,,3000,1200,1510,460.0,1,
+424,6202591,BIW,RR6 Bonnet (BIW),,RR6,,,,1560,1220,1378,333.0,1,
+425,6202594,Special,Boot lid RR6,V6202594A,RR6,,MUC,,1500,1100,220,9.0,1,228
+426,6202595,BIW,RR6 Bonnet Lid (BIW),,RR6,,,,1498,1105,220,9.0,1,
+427,6202750,Special,EPP tray FRR sensor,V6202750A,RR11/12,,NUE,,600,400,120,1.0,1,229
+428,6202819,Special,"Underside paneling LH/RH
+(Obsolete RR4 Container)",,RR5/6,,OBSOLETE,,2000,820,995,194.0,,
+429,6202868,Special,Stabilisator,,No RR,,AAH,,1220,810,1010,175.0,1,
+430,6202913,Special,"BDC. EPP tray
+RR11/12",V6202913A,RR11/12,,NUE,,585,395,200,1.0,1,230
+431,6202925,Special,EPP Kafas 3,V6202925A,RR11/12,,NUE,,600,400,125,1.0,1,231
+432,6202927,Special,RR4 headlight LH/LHD,V6202927A,,,NUE,,600,400,320,3.0,1,232
+433,6202933,Special,RR4 headlight LH/LHD,V6202933A,RR5/6,,NUE,,600,400,320,3.0,1,233
+434,6202963,Special,Deck cover RR6,,RR5/6,,NUE,,1240,840,985,80.0,1,
+435,6202964,Special,Cover RR6,V6202964A,RR5/6,,BER,,1150,780,75,4.5,1,234
+436,6202965,Special,Chrome finisher RR6,V6202965A,,,AAH,,1750,775,100,5.0,1,235
+437,6202967,JIS,RR6 Grill Surround,V6202967A,RR6,,JIS,2,1170,580,215,2.0,4,236
+438,6202968,Special,Air intake RR6,V6202968A,RR5/6,,AAH,,594,396,147,3.0,1,237
+439,6202969,Special,A-Pillar windscreen RR6,V6202969A,RR5/6,,BER,,1750,790,210,4.5,1,238
+440,6202970,Special,Side finisher RR6,V6202970A,RR5/6,,BER,,780,590,140,2.0,1,239
+441,6202971,Special,Finisher UERS RR6,V6202971A,RR5/6,,AAH,,1495,1190,455,5.0,1,240
+442,6202972,JIS,A Pillar RR6,,RR6,,JIS,8,1200,1000,740,70.0,10,
+443,6202973,JIS,Cover Windscreen + A-Pillar RR6,V6202973A,,,JIS,8,600,400,280,2.0,10,241
+444,6202974,JIS,EPP Dividers for RR4/5/6 Sills inside 3103011,V6202974A,RR4/5/6,,JIS,2,770,100,110,1.5,4,242
+445,6202975,Special,COVER FINISHER WEBBING_RR6,V6202975A,RR5/6,,MUC,,396,297,147,2.5,1,243
+446,6202976,Special,CHROME STRIP TOP SHOULDER SIDE_RR6,V6202976A,RR5/6,,MUC,,780,295,120,2.0,1,244
+447,6202977,Special,FINISHER ELECTRIC-WINDOW SWITCH_RR6,V6202977A,RR5/6,,NUE,,594,396,147,2.0,1,245
+448,6202978,Special,A-Pillar finisher RR6,V6202978A,,,AAH,,780,590,170,2.0,1,246
+449,6202979,Special,SIDE GLASS A PILLAR_RR6,V6202979A,RR5/6,,AAH,,400,300,130,2.0,1,247
+450,6202980,Special,A-Pillar finisher RR6,V6202980A,,,AAH,,780,590,170,2.0,1,248
+451,6202981,Special,Hi line beake light RR6,V6202981A,RR5/6,,AAH,,594,396,147,3.0,1,249
+452,6203209,Special,SFFG_ESD EPP TV MODUL,V6203209A,RR5/6,,AAH,,400,300,215,1.0,1,250
+453,6203236,JIS,Soft Top RR6,,RR6,,JIS,,2010,1240,760,200.0,,
+454,6203268,Special,Cross member,V6203268A,RR5/6,,NUE,,780,590,160,6.0,1,251
+455,6203363,Special,"Steering column
+RR11/12",,RR11/12,,OBSOLETE,,1180,780,195,8.0,,252
+456,6203385,Special,EPP_ESD_AIRBAG ELEKTRONIK G1X,V6203385A,RR11/12,,AAH,,600,400,210,1.0,1,253
+457,6203393,Special,Steering Column,V6203393A,RR11/12/31,,NUE,,1180,780,195,8.0,1,254
+458,6203649,JIS,STEEL SFFG TRIM PANEL BUMPER FRONT RR6,,RR6,,JIS,2,2200,1240,1500,200.0,4,
+459,6203744,Special,EPP_ESD_Compensator G1X,V6203744A,RR11/12,,AAH,,585,395,105,1.0,1,255
+460,6203845,Special,Rollover bar RR6,,RR5/6,,AAH,,1400,800,990,100.0,1,
+461,6203891,Special,RR4/6 LCI Bonnet Strip,V6203891A,RR5/6,,AAH,,1173,411,50,2.0,1,256
+462,6203892,Special,RR2/3 grille finisher,,RR5/6,,OBSOLETE,,840,200,150,2.0,,
+463,6203893,Special,"RR4 bumper rail LH
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,150,2.0,,
+464,6203894,Special,"RR4 bumper rail RH
+(End of Production)",,RR5/6,,OBSOLETE,,600,400,150,2.0,,
+465,6203909,Special,SFFG_TZF Aktor pyrotech. Ausloese FK,V6203909A,RR21/22,,NUE,,545,365,72,0.6,1,257
+466,6204051,Special,Camera,V6204051A,All BMW Derivatives,,NUE,,585,395,98,0.8,1,258
+467,6204189,Special,Stahl SFFG pyrotechnische Gegenstände,,RR21/22,,NUE,,1220,820,990,187.0,1,
+468,6204212,Special,Plastic Dividers for Exhaust Catalytic Converter,V6204212A,All BMW Derivatives,,MUC,,1176,776,170,1.0,1,259
+469,6204392,Special,"12"" Monitor Container ESD",V6204392A,RR4/5/6,,MUC,,600,400,280,2.0,1,260
+470,6204560,Special,Rear parcel shelf finisher loudspeaker,V6204560A,RR11/12,,AAH,,400,300,147,1.0,1,261
+471,6204561,Special,Rear parcel shelf finisher loudspeaker,V6204561A,RR11/12,,AAH,,400,300,110,1.0,1,262
+472,6204562,Special,"Finisher trunk compartment sill wall
+RR11/12",V6204562A,RR11/12,,FRADLEY,,800,600,273,2.0,1,263
+473,6204563,Special,"Sealing door gap door rear
+RR12",V6204563A,RR11/12,,BER,,1170,400,100,2.0,1,264
+474,6204565,Special,Foam strip RR6,V6204565A,RR5/6,,BER,,1150,780,75,2.0,1,265
+475,6204566,Special,FZD RR11/12,V6204566A,RR11/12,,BER,,790,600,112,1.0,1,266
+476,6204582,Special,"Lowering mechanism hood ornament
+RR4/5/6/11/12/31",V6204582A,RR11/12,,MUC,,800,600,280,5.0,1,267
+477,6204583,Special,"Door panel carrier
+RR11/12",,RR11/12,,NUE,,1235,835,967,35.0,1,
+478,6204584,Special,Instrument cluster comp.,V6204584A,RR11/12,,AAH,,585,395,142,1.5,1,268
+479,6204586,Special,Air guide upper,,RR11/12,,AAH,,1235,835,967,20.0,1,
+480,6204587,Special,Air guide lower,,RR11/12,,AAH,,1240,835,500,80.0,1,
+481,6204592,Special,RR5 Grille Container Pallet,,All BMW Derivatives,,AAH,,1230,1020,175,34.0,1,
+482,6204595,Special,RR5 Grille Container Lid,,All BMW Derivatives,,AAH,,1230,1020,40,8.0,1,
+483,6204615,JIS,"Antenna Cover
+RR4/5/11/12/31/21/22",V6204615A,RR4/5/11/12/31/RR21/22,,JIS,4a,600,400,110,1.0,11,269
+484,6204636,Special,EPP antenna assy,V6204636A,RR5/6,,AAH,,580,400,100,1.0,1,270
+485,6204666,Special,Rear Door Glass RR5/6,,RR5/6,,AAH,,1200,800,1000,98.0,1,
+486,6204677,JIS,"Bumper Front
+RR11/12/31/21/22",,RR11/12/31,,JIS,4a,2420,1220,1480,320.0,11,
+487,6204678,JIS,"Bumper Rear
+RR11/12/31",,RR11/12/31,,JIS,4a,2420,835,1480,300.0,11,
+488,6204680,JIS,"Carpets for
+all variants",,All,,JIS,1,2000,1800,1500,300.0,12,
+489,6204681,Special,Brake unit,V6204681A,RR11/12,,BER,,585,790,310,2.0,1,271
+490,6204682,Special,"Fuel tank
+RR11/12",,RR11/12,,AAH,,1680,1400,1500,280.0,1,
+491,6204683,Special,air reservoir,V6204683A,RR11/12,,MUC,,1140,790,210,1.5,1,272
+492,6204706,JIS,"Side mirror left
+RR11/12
+OBSOLETE - succeeded by 6210963)",,RR11/12,,OBSOLETE,,600,400,170,1.0,,
+493,6204710,JIS,"Heater & AC Unit
+RR5/6/11/12/31/21/22",,ALL,,JIS,11,1910,1210,1200,100.0,10,
+494,6204724,Special,Cover RR6,V6204724A,RR5/6,,BER,,780,590,120,1.5,1,273
+495,6204770,Special,Cover RR6,V6204770A,RR5/6,,NUE,,594,396,147,2.0,1,274
+496,6204853,Special,ECU (VDP),V6204853A,RR5/6,,AAH,,594,396,280,4.6,1,275
+497,6204875,Special,Rear parcel shelf finisher belt outlet,V6204875A,RR11/12,,AAH,,297,198,98,0.5,1,276
+498,6204886,Special,"Assy. Cover pot
+RR11/12",V6204886A,RR11/12,,MUC,,794,596,210,1.0,1,277
+499,6204920,Special,"Grab handle rear
+RR11/12",V6204920A,RR11/12,,MUC,,585,395,98,1.0,1,278
+500,6204925,Special,Glass mirror C-pillar,V6204925A,RR11/12,,AAH,,585,395,208,1.0,1,279
+501,6204927,Special,Raised Brake Light RR11/12/2X,V6204927A,RR11/12,,FRADLEY,,585,790,110,1.0,1,280
+502,6204928,Special,"Taillight side panel
+RR11/12
+(End of Production)",,RR11/12,,OBSOLETE,,790,585,212,1.0,,
+503,6204929,Special,Rear Reflector LH RR11/12/31,V6204929A,RR11/12,,FRADLEY,,585,395,98,0.5,1,281
+504,6204930,Special,Finisher B-post inner upper,V6204930A,RR11/12,,AAH,,585,395,208,0.5,1,282
+505,6204931,Special,Sun visor cpl.,V6204931A,RR11/12,,AAH,,534,357,242,3.0,1,283
+506,6204936,JIS,"Sills RR11/12/31
+(Obsolete, replaced by new RR2X Sill Container)",,All Derivatives,,OBSOLETE,,3200,1220,1480,300.0,11,
+507,6204937,Special," RH Headlight RR11/12/31
+(succeeded by 6RR213792)",,RR11/12,,OBSOLETE,,780,520,230,2.0,,
+508,6204938,Special,"Water Collector Strip LH/RH
+RR11/12",V6204938A,RR11/12,,FRADLEY,,1170,395,100,1.5,1,284
+509,6204969,JIS,"Headliner
+RR11/12",,RR11/12,,JIS,11,1450,1200,2700,350.0,3,
+510,6204970,JIS,"Side Frame Finisher
+RR11/12/31",,RR11/12,,JIS,2,3040,820,620,350.0,4,
+511,6204973,Special,Trim Panel Partition Wall EPP,V6204973A,RR12,,AAH,,1450,790,142,0.5,1,285
+512,6204974,Special,"Fresh air louver B-pillar
+RR11/12",V6204974A,RR11/12,,NUE,,585,395,145,1.0,1,286
+513,6204975,Special,"Fresh air grill outer
+RR11/12",V6204975A,RR11/12,,NUE,,600,400,215,2.0,1,287
+514,6204976,Special,"Fresh air grill middle
+RR11/12",V6204976A,RR11/12,,NUE,,600,400,215,2.0,1,288
+515,6204989,Special,ASSY REAR COMPARTMENT BLOWER 35UP,V6204989A,,,NUE,,790,585,273,1.2,1,289
+516,6204991,Special,"Top shoulder door rear
+RR11",V6204991A,RR11/12,,MUC,,790,585,112,1.0,1,290
+517,6204992,Special,Switch cluster steering column,V6204992A,RR11/12,,NUE,,585,395,170,1.0,1,291
+518,6204994,Special,Door Trim Strips Front,V6204994A,RR31,,AAH,,1170,595,89,0.8,1,292
+519,6204995,Special,Top shoulder door front,V6204995A,RR11/12,,BER,,595,395,90,0.5,1,293
+520,6205001,Special,Panelling Side Rail,V6205001A,RR31,,AAH,,795,595,70,0.8,1,294
+521,6205003,Special,Décor strip cowl RR6,,,,OBSOLETE,,1390,350,150,5.0,,295
+522,6205008,Special,Carrier arm rest door frt,V6205008A,RR11/12,,NUE,,594,395,147,1.0,1,296
+523,6205010,Special,"LH Treadplate
+RR5/RR6",V6205010A,RR5/6,,AAH,,1195,395,230,10.0,1,297
+524,6205017,Special,Cover bumper front,V6205017A,RR11/12,,MUC,,790,585,123,1.0,1,298
+525,6205018,Special,Finisher A-post outside,V6205018A,RR11/12,,MUC,,594,396,100,1.0,1,299
+526,6205023,Special,Finisher B-post outer door rear,V6205023A,RR11/12,,FRADLEY,,585,395,82,1.0,1,300
+527,6205025,Special,Finisher B-post outer door rear,V6205025A,RR11/12,,FRADLEY,,585,395,142,1.0,1,301
+528,6205026,Special,Finisher B-post outer door rear,V6205026A,RR11/12,,FRADLEY,,585,395,142,1.0,1,302
+529,6205034,Special,Covering bumper rear,V6205034A,RR11/12,,FRADLEY,,1170,395,90,2.0,1,303
+530,6205035,Special,Handle Strip Tailgate (Griffleiste) RR11/12,V6205035A,RR11/12,,MUC,,1170,395,168,1.0,1,304
+531,6205036,Special,Finisher windshield upper,V6205036A,RR11/12,,FRADLEY,,1450,395,165,1.5,1,305
+532,6205041,Special,Covering rear window,V6205041A,RR11/12,,FRADLEY,,1400,760,90,3.0,1,306
+533,6205044,Special,Door window glass fixed door rear,V6205044A,RR11/12,,FRADLEY,,585,790,98,0.5,1,307
+534,6205045,Special,Finisher C-post outside,V6205045A,RR11/12,,FRADLEY,,585,395,109,0.5,1,308
+535,6205046,Special,Covering door cavity outer door rear,V6205046A,RR11/12,,FRADLEY,,1170,395,76,1.0,1,309
+536,6205047,Special,Finisher window frame outer door rear,V6205047A,RR11/12,,FRADLEY,,1170,395,66,1.0,1,310
+537,6205048,Special,Covering door cavity outer door front,V6205048A,RR11/12,,FRADLEY,,1170,395,80,1.0,1,311
+538,6205065,Special,Carrier door trim panel door frt,V6205065A,RR11/12,,NUE,,1235,835,967,2.0,1,312
+539,6205068,Special,Carrier door trim panel door frt,V6205068A,RR11/12,,NUE,,794,596,280,1.0,1,313
+540,6205079,JIS,"Exhaust system front
+All Variants
+(End of Production)",,RR11/12,,OBSOLETE,,3200,1220,995,300.0,,
+541,6205120,Special,Steering Shaft Steering Column,V6205120A,RR11/12,,AAH,,590,394,147,2.0,1,314
+542,6205121,Special,"Covering cowl
+RR12",,RR12,,AAH,,1800,840,1450,70.0,1,
+543,6205133,Special,RR11/12 Bonnet EPP,V6205133A,RR11/12,,AAH,,1760,1660,160,12.5,1,315
+544,6205134,Special,RR11/12/31 Bonnet Load Unit Lid,,RR11/12/31,,AAH,,1790,1690,100,2.5,1,
+545,6205135,Special,RR11/12/31 Bonnet Metal Outer,,RR11/12/31,,AAH,,2400,1900,1500,350.0,1,
+546,6205141,Special,Camera RR11/12/31,V6205141A,RR11/12/31,,AAH,,585,395,140,0.8,1,316
+547,6205142,Special,Assy Wiper Motor RR31,V6205142A,RR31,,NUE,,585,395,147,2.5,1,317
+548,6205166,BMW Standard,Gefache Scharnier HKL RR6 EPP,V6205166A,RR6,,,,760,570,90,1.0,1,318
+549,6205172,Special,Trim strip bonnet,V6205172A,RR11/12,,FRADLEY,,1740,395,89,3.0,1,319
+550,6205173,Special,Door window glass fixed door rear,V6205173A,RR11/12,,AAH,,600,400,280,2.0,1,320
+551,6205178,Special,Outer mirror,V6205178A,RR11/12,,AAH,,585,790,142,2.0,1,321
+552,6205207,Special,Finisher window frame outer door front,V6205207A,RR11/12,,FRADLEY,,1360,395,76,2.0,1,322
+553,6205220,Special,"Front windscreen
+RR11/12",,RR11/12,,AAH,,1950,1100,1300,250.0,1,
+554,6205227,Special,"Side window rear
+RR11",,RR11/12,,AAH,,1420,800,1000,90.0,1,
+555,6205230,Special,"Side window front
+RR11/12",,RR11/12,,AAH,,1420,800,1000,150.0,1,
+556,6205232,Special,Covering Door Cavity Outer Door Rear,V6205232A,RR12,,FRADLEY,,1360,395,76,0.9,1,323
+557,6205235,Special,Finisher window frame outer door rear,V6205235A,RR11/12,,FRADLEY,,790,585,71,1.0,1,324
+558,6205238,JIS,"Carpet trunk compartment
+RR11/12
+(Obsolete, replaced by 6213752)",,RR11/12,,OBSOLETE,,1600,1220,1450,150.0,13,
+559,6205241,JIS,SFFG_JIS LADEKANTE/VERKL. HKL_SET5_RR31,,RR31,,JIS,5,1420,835,980,85.0,13,
+560,6205242,JIS,FLOOR PANEL TRUNK,,RR31/2X,,JIS,5,1660,1480,890,220.0,13,
+561,6205253,Special,Switch central locking doors,V6205253A,RR11/12,,AAH,,585,395,125,0.5,1,325
+562,6205255,Special,Top shoulder door front,V6205255A,RR11/12,,MUC,,1170,395,89,1.0,1,326
+563,6205258,Special,Top shoulder door rear,V6205258A,RR11/12,,MUC,,1170,395,110,1.0,1,327
+564,6205259,Special,Carrier door trim panel door rr,V6205259A,RR11/12,,NUE,,794,596,280,2.0,1,328
+565,6205260,Special,Carrier door trim panel door rr,,RR11/12,,NUE,,1235,835,967,15.0,1,329
+566,6205262,JIS,"Carpet trunk lid
+RR11/12",,RR11/12,,JIS,5,1435,1200,1065,20.0,13,
+567,6205263,Special,Decorative strips instrument panel,V6205263A,RR11/12,,BER,,585,395,208,1.5,1,330
+568,6205264,Special,Decorative strips instrument panel,V6205264A,RR11/12,,BER,,585,395,125,0.5,1,331
+569,6205266,Special,Windshield wiper system,V6205266A,RR11/12,,MUC,,794,596,235,1.5,1,332
+570,6205268,Special,Wiper lever front,V6205268A,RR11/12,,AAH,,1170,795,125,1.0,1,333
+571,6205272,Special,Covering windshield,V6205272A,RR11/12,,BER,,1450,395,101,1.5,1,334
+572,6205278,Special,HKP cupholder switch rear,V6205278A,RR11/12,,NUE,,300,200,70,0.5,1,335
+573,6205286,Special,Decorative strips instrument panel ,V6205286A,RR11/12,,BER,,585,395,72,0.5,1,336
+574,6205287,Special,FINISHER DECORATIVE STRIP/I-PANEL/DOORS,V6205287A,RR11/12,,BER,,1170,395,125,1.0,1,337
+575,6205289,Special,FINISHER DECORATIVE STRIP/I-PANEL/DOORS,V6205289A,RR11/12,,BER,,395,297,140,0.8,1,338
+576,6205295,Special,Vent grate rear parcel shelf,V6205295A,RR11/12,,AAH,,1170,395,142,2.0,1,339
+577,6205299,Special,Lid rear compartment console,V6205299A,RR11/12,,AAH,,297,196,147,0.5,1,340
+578,6205310,JIS,"Wheel caps
+RR11/12",V6205310A,RR11/12,,JIS,4a,600,400,100,1.0,11,341
+579,6205313,Special,Audio Control Element,V6205313A,RR11/12,,AAH,,790,585,110,0.5,1,342
+580,6205314,Special,Switch cluster center console,V6205314A,RR11/12,,AAH,,585,395,109,0.5,1,343
+581,6205329,Special,Finisher Defroster Nozzle Side,V6205329A,RR11/12,,MUC,,1450,790,110,2.0,1,344
+582,6205330,Special,Finisher defroster nozzle side,V6205330A,RR11/12,,MUC,,297,198,109,1.5,1,345
+583,6205331,Special,Bezel Analog Clock,V6205331A,RR11/12,,MUC,,297,198,147,1.0,1,346
+584,6205332,Special,Blende Glaskasten Boden,V6205332A,RR11/12,,MUC,,297,198,147,1.0,1,347
+585,6205335,Special,Chrome switch centre armrest seat rear,V6205335A,RR11/12,,NUE,,396,297,110,1.0,1,348
+586,6205336,Special,"I-Panel lower carrier
+RR11/12",,RR11/12,,MUC,,1600,820,995,180.0,1,349
+587,6205341,Special,Cover steering column instrument panel,V6205341A,RR11/12,,MUC,,585,395,123,0.5,1,350
+588,6205343,Special,Cover steering column instrument panel,V6205343A,RR11/12,,MUC,,795,585,168,2.0,1,351
+589,6205349,Special,"Lashing eye EPP tray
+RR11/12",V6205349A,RR11/12,,NUE,,600,400,100,1.0,1,352
+590,6205351,Special,Oddments tray floor center console,V6205351A,RR11/12,,MUC,,790,585,172,1.0,1,353
+591,6205352,Special,Dashboard Control Block for External Lights,V6205352A,RR11/12,,MUC,,585,395,146,1.0,1,354
+592,6205354,Special,Decorative finisher center console,V6205354A,RR11/12,,MUC,,297,198,111,0.5,1,355
+593,6205355,Special,Decorative finisher center console,V6205355A,RR11/12,,MUC,,297,198,147,0.5,1,356
+594,6205356,Special,Decorative finisher center console,V6205356A,RR11/12,,MUC,,297,198,147,0.5,1,357
+595,6205359,Special,Glass for Glaskasten,V6205359A,RR11/12,,AAH,,1350,395,91,1.5,1,358
+596,6205371,Special,"Finisher central bass
+RR11/12",V6205371A,RR11/12,,NUE,,790,585,142,2.0,1,359
+597,6205375,Special,Kinematik ZBE,V6205375A,RR11/12,,MUC,,585,396,273,2.0,1,360
+598,6205376,Special,Glove box,V6205376A,RR11/12,,MUC,,795,585,172,1.0,1,361
+599,6205384,Special,"switch gearbox gear selector
+RR11/12/31",V6205384A,RR11/12/31,,FRADLEY,,585,395,125,0.5,1,362
+600,6205402,Special,Central control unit,V6205402A,RR11/12,,AAH,,585,395,125,0.5,1,363
+601,6205407,Special,Operating unit roof,V6205407A,RR11/12,,BER,,585,395,100,0.5,1,364
+602,6205417,Special,Centre Console Combination Switch RR31,V6205417A,RR31,,MUC,,585,395,91,0.5,1,365
+603,6205429,Special,"Cover bumper front
+(OBSOLETE, succeeded by 6218011)",,RR11/12,,OBSOLETE,,1740,780,65,2.5,,366
+604,6205442,Special,Display entertainment rear,V6205442A,RR11/12,,MUC,,585,395,160,1.0,1,367
+605,6205458,JIS,"Exhaust Rear
+(Alternative Packaging only because 6211181 is now used for Series deliveries)",,RR11/12,,OBSOLETE,,2420,1450,1480,200.0,6,
+606,6205520,Special,CONTROL MODULE,V6205520A,,,AAH,,594,396,147,3.0,1,368
+607,6205831,Special,Thermostat brkt 35up,V6205831A,RR11/12,,AAH,,400,300,147,1.0,1,369
+608,6206415,Special,"Chrome finisher Bonnet RR4 EWB
+(End of Production - RR4 Only)",,RR5/6,,OBSOLETE,,900,350,75,2.0,,370
+609,6206543,Special,Chrome finisher Bonnet RR4,V6206543A,RR5/6,,BER,,775,350,75,2.0,1,371
+610,6206554,Special,Steel Insert Trunk Diffuser F90,,RR5/6,,OBSOLETE,,1220,830,1,85.0,,372
+611,6206564,Special,Cover bumper front,V6206564A,RR11/12,,MUC,,790,585,98,1.0,1,373
+612,6206565,Special,Covering sill panel / rocker panel (am),V6206565A,RR11/12,,FRADLEY,,2460,395,80,2.0,1,374
+613,6206626,Special,"Cooling module protector MLW LH
+(With 3106977)",V6206626A,RR5/6,,BER,,820,60,500,1.0,1,375
+614,6206627,Special,"Cooling module protector MLW RH
+(With 3106977)",V6206627A,RR5/6,,BER,,820,60,500,1.0,1,376
+615,6206754,Special,Does Not Leave Goodwood Leathershop Seats Internal Loop Container,,,,FRADLEY,,,,,,1,377
+616,6206981,JIS,"Paintbar Front
+RR11/12",,RR11/12,,JIS,9,1450,1200,1510,515.0,5,
+617,6206982,JIS,"Paintbar Rear 
+RR11",,RR11,,JIS,9,1450,1200,1510,515.0,5,
+618,6206983,JIS,"Paintbar Rear
+RR12",,RR12,,JIS,9,1450,1200,1510,515.0,5,
+619,6206986,Special,Windscreen finisher RR6,V6206986A,,,AAH,,1200,800,150,1.5,1,378
+620,6206987,BIW,Bonnet RR11/12 (BIW Fontana to Unterhollerau),,RR11/12,,,,2000,1200,1960,300.0,1,379
+621,6206989,BIW,Boot Lid RR11/12 EPP,V6206989A,RR11/12,,,,1560,1220,210,8.0,1,380
+622,6206990,BIW,Boot Lid RR11/12 Lid,,RR11/12,,,,1700,1200,150,8.0,1,
+623,6206991,BIW,Boot Lid RR11/12 Pallet,,RR11/12,,,,1700,1200,200,100.0,1,
+624,6207037,BIW,Door Reorders Left/Right,,RR11,,,,2400,1600,1760,365.0,1,
+625,6207038,BIW,Door Reorders Left/Right,,RR11,,,,2400,1600,1760,365.0,1,
+626,6207331,Special,"Steering column
+RR11/12",V6207331A,RR11/12,,BER,,1180,780,195,8.0,1,381
+627,6207431,Special,SFFG_EPP SCHACHTABDECKUNG VO_RR31,V6207431A,RR31,,FRADLEY,,1350,395,80,1.4,1,382
+628,6207438,Special,"Radiator Grill EPP
+(End of Production)",,RR31,,OBSOLETE,,1170,790,212,2.8,,383
+629,6207439,Special,Radiator Grill EPP,V6207439A,RR31,,MUC,,1170,790,212,2.8,1,384
+630,6207441,Special,Trim Panel STF Front,V6207441A,RR31,,MUC,,1170,790,273,1.6,1,385
+631,6207443,Special,Bumper Rear Top Finisher,V6207443A,RR31,,AAH,,1350,395,111,2.5,1,386
+632,6207444,Special,USB Hub Twin Charger,V6207444A,,,BER,,585,395,100,0.8,1,387
+633,6207465,Special,Windscreen Gutter Strip RR31,V6207465A,RR31,,MUC,,1170,395,98,0.8,1,388
+634,6207477,Special,Body-Mounted Door Glass,V6207477A,RR31,,AAH,,1170,790,89,1.5,1,389
+635,6207478,Special,Ventilation Grill EPP RR31,V6207478A,RR31,,AAH,,790,585,62,1.0,1,390
+636,6207538,Special,Rear Treadplate RR11/12,V6207538A,RR11/12,,MUC,,1170,395,123,3.0,1,391
+637,6207556,Special,Windscreen finisher RR6,V6207556A,RR5/6,,MUC,,600,400,100,2.0,1,392
+638,6207571,Special,Door Panelling Fleece,V6207571A,RR31,,AAH,,1350,395,111,5.0,1,393
+639,6207574,JIS,Frame Radiator Grille,V6207574A,RR31,,JIS,4b,1170,580,210,1.2,11,394
+640,6207576,JIS,EPP Rear Bumper Upper Cover RR31,V6207576A,RR31,,JIS,4a,1170,790,410,4.5,11,395
+641,6207586,Special,"Thermostat
+RR11/12/31",V6207586A,RR11/12/31,,AAH,,400,300,147,2.0,1,396
+642,6207873,Special,Analogue clock,V6207873A,RR11/12,,NUE,,396,297,89,2.5,1,397
+643,6207934,BIW,Fender Front LH RR11/12 (BIW),,RR11/12,,,,2400,1400,1510,355.0,1,
+644,6207936,BIW,Fender Front RH RR11/12 (BIW),,RR11/12,,,,2400,1400,1510,355.0,1,398
+645,6207937,BMW Standard,Lid for 3100410,,All BMW Derivatives,,,,1180,780,5,2.0,1,
+646,6208146,Special,Glove Box RR31,V6208146A,RR31,,MUC,,1170,790,273,2.2,1,399
+647,6208148,JIS,Steering Wheel RR11/12/31,,RR11/12/31,,JIS,8,1240,835,730,150.0,10,400
+648,6208333,Special,Raised Brake Light RR31,V6208333A,RR31,,FRADLEY,,594,396,147,2.0,1,401
+649,6208334,Special,Tail Light RR11/12,V6208334A,RR11/12/31,,FRADLEY,,400,400,280,3.5,1,402
+650,6208344,Special,Sill Boss Rear RR31,V6208344A,RR31,,AAH,,585,395,124,0.5,1,403
+651,6208345,Special,Wheel Arch Finisher Front,V6208345A,RR31,,AAH,,585,395,142,0.5,1,404
+652,6208347,JIS,Rear Spoiler Tailgate,V6208347A,RR31,,JIS,4b,1350,395,212,1.5,11,405
+653,6208348,JIS,Spoiler Trunk Lid,V6208348A,RR31,,JIS,4b,1350,395,415,2.0,11,406
+654,6208391,Special,"Reservoir Container
+RR11/12/31",V6208391A,RR11/12/31,,MUC,,780,345,265,1.0,1,407
+655,6208431,JIS,Panoramic Sunroof Frame,,,,JIS,3,1930,1280,1480,300.0,14,408
+656,6208563,JIS,"FRONT AXLE
+RR11/12/31/21/22",,RR11/12/31/21/22,,JIS,3,2400,2000,735,275.0,14,
+657,6208564,JIS,"REAR AXLE
+RR11/12/31/21/22",,RR11/12/31/21/22,,JIS,3,2400,2000,487,296.0,14,
+658,6208589,Special,Support panel RR6,,RR5/6,,MUC,,2000,1240,990,280.0,1,
+659,6208590,Special,NOT USED AT ROLLS-ROYCE,,,,OBSOLETE,,,,,,,
+660,6208793,Special,REAR WINDOW RR5,,RR5/6,,AAH,,1800,1200,1600,150.0,1,409
+661,6208827,Special,Air Reservoir,V6208827A,RR31,,MUC,,1240,835,205,1.0,1,410
+662,6208893,Special,Steering Shaft,V6208893A,RR31,,AAH,,590,394,147,1.8,1,411
+663,6208894,Special,Radiator Grille,V6208894A,RR11/12,,MUC,,1170,790,208,1.0,1,412
+664,6208896,Special,"Side frame finisher
+RR11/12",,RR11/12,,FRADLEY,,2950,735,100,150.0,1,413
+665,6208900,JIS,"Main Harness Black Plastic Box
+RR11/12/31/2X",V6208900A,RR11/12,,JIS,10,1600,400,420,10.5,6,414
+666,6208914,Special,Window Frame Cover on Door RR31,,RR31,,MUC,,1235,835,967,45.0,1,
+667,6208924,Special,Wiper Lever Rear RR31,V6208924A,RR31,,NUE,,790,585,123,0.9,1,415
+668,6208930,Special,ASSY REAR WINDOW,,RR31,,BER,,1600,1200,1000,250.0,1,
+669,6208933,JIS,"Side mirror right
+RR11/12
+(OBSOLETE - replaced by 6210964)",,RR11/12,,OBSOLETE,,600,400,135,1.0,,416
+670,6208938,BMW Standard,ESD KLT 800x600x220,V6208938B,All BMW Derivatives,,,,800,600,220,4.6,1,417
+671,6208939,Special,Assy Finisher Load Edge,V6208939A,RR31,,MUC,,1170,395,98,2,1,418
+672,6208942,Special,Carrier center console,V6208942A,RR11/12,,MUC,,1170,790,280,2.5,1,419
+673,6209005,JIS,Fixed Parcel Shelf RR31,V6209005A,RR31,,JIS,7,1200,400,400,4.5,8,420
+674,6209006,Special,Umbrella case,V6209006A,RR11/12,,MUC,,1195,395,210,2.0,1,421
+675,6209043,Special,Special Container for Emily,V6209043A,RR21/22,,FRADLEY,,400,300,140,2.0,1,422
+676,6209054,JIS,RR31 Cover B-Pillar Upper/Lower - Set Container,,RR31,,JIS,7,1170,795,980,4.0,8,
+677,6209073,Special,"I-Panel carrier
+RR11/12
+(End of Production)",,RR11/12,,OBSOLETE,,1680,1220,1480,170.0,,423
+678,6209081,Special,"Front suspension strut
+RR11/12",,RR11/12,,BER,,1220,825,995,150.0,1,
+679,6209085,Special,"Rear suspension strut
+RR11/12",,RR11/12,,BER,,1220,825,995,150.0,1,
+680,6209091,Special,Partition Wall Glass EPP,V6209091A,RR31,,NUE,,1170,790,142,1.6,1,424
+681,6209127,Special,Trim Panel Radar,V6209127A,RR31/2X,,NUE,,790,585,100,1.2,1,425
+682,6209256,JIS,Cover Tailgate RR31,,RR31,,JIS,7,1420,1220,1495,140.0,8,426
+683,6209262,Special,RR31 Front Treadplate EPP,V6209262A,RR31,,MUC,,790,585,168,1.0,1,427
+684,6209263,Special,RR31 Rear Treadplate EPP,V6209263A,RR31,,MUC,,795,595,141,2.0,1,428
+685,6209299,BIW,Front Fender LH RR11/12 (BIW),,RR11/12,,,,2400,1600,1360,340.0,1,429
+686,6209300,BIW,Front Fender RH RR11/12 (BIW),,RR11/12,,,,2400,1600,1360,340.0,1,430
+687,6209455,Special,Actuator heater/AC unit front,V6209455A,RR11/12,,AAH,,790,585,145,1.5,1,431
+688,6209508,Special,Rear compartment blower,V6209508A,RR11/12,,MUC,,790,585,208,1.0,1,432
+689,6209555,Special,"Leather carrier RRMC
+RR4/5/6/11/12/31",,ALL,,BER,,3000,1200,1850,354.0,1,
+690,6209562,Special,"Foot rest Phantom
+RR11/12",V6209562A,RR11/12,,MUC,,600,400,250,2.0,1,433
+691,6209602,Special,"IP Carrier
+RR11/12 Only",,RR11/12/31,,NUE,,1680,1220,1480,190.0,1,
+692,6209632,Special,"MIKO
+RR31",V6209632A,RR31,,AAH,,794,596,210,5.0,1,434
+693,6209682,Special,Decorative Trim Panel Rear Console,V6209682A,RR31,,AAH,,396,297,147,1.5,1,435
+694,6209747,Special,Door glass RR5,,RR5,,AAH,,1420,800,990,150.0,1,436
+695,6209803,BIW,Front Door LH & RH RR11/12 (BIW),,RR11/12,,,,2400,1600,1810,295.0,1,437
+696,6209804,BIW,Front Door LH & RH RR11/12 (BIW),,RR11/12,,,,2400,1400,1810,460.0,1,
+697,6209805,BIW,Bonnet RR31 (BIW between Fontana and Unterhollerau),,RR11/12,,,,2000,1200,1960,265.0,1,
+698,6209806,JIS,Paint Bars Front RR31 (BIW),,RR31,,,9,1450,1200,1510,444.0,1,
+699,6209807,JIS,Paint Bars Rear RR31 (BIW),,RR31,,,9,1450,1200,1510,444.0,1,
+700,6209955,Special,Kinematik CID,V6209955A,RR11/12,,MUC,,790,585,210,3.0,1,438
+701,6210029,Special,Handle door outer door front,V6210029A,RR11/12,,AAH,,594,396,147,3.0,1,439
+702,6210039,Special,Sealing door gap door rear,V6210039A,RR11/12,,BER,,1370,795,71,3.0,1,440
+703,6210043,Special,Central locking system EPP,V6210043A,RR11/12,,AAH,,300,150,100,0.5,1,441
+704,6210045,Special,"Carrier arm rest door frt
+(End of Production)",,RR11/12,,OBSOLETE,,794,596,147,1.5,,
+705,6210086,Special,double universal joint,V6210086A,RR11/12,,AAH,,1080,675,98,1.0,1,442
+706,6210215,Special,Special Container for metal strips,,RR5/6,,FRADLEY,,725,520,50,3.0,1,
+707,6210247,Special,"Ash tray cover
+RR11/12",,RR11/12,,OBSOLETE,,585,395,76,0.5,,443
+708,6210249,Special,"Finisher Sill EWB
+RR12",V6210249A,RR12,,FRADLEY,,2650,835,500,155.0,1,444
+709,6210255,Special,Ascher Tuer hinten,V6210255A,RR11/12,,MUC,,585,395,142,1.0,1,445
+710,6210304,Special,Crashblock oben,V6210304A,RR11/12,,MUC,,396,297,70,0.5,1,446
+711,6210305,Special,Finisher NIVI camera,V6210305A,RR11/12,,AAH,,585,395,124,1.5,1,447
+712,6210311,Special,Rear Door Ashtray,V6210311A,RR31,,MUC,,585,395,170,0.7,1,448
+713,6210316,Special,Arm rest door rear,V6210316A,RR11/12,,NUE,,590,390,105,1.0,1,449
+714,6210317,Special,Arm rest door rear,V6210317A,RR11/12,,NUE,,590,390,105,1.0,1,450
+715,6210323,Special,Finisher power window switch door trim panel,V6210323A,RR11/12,,NUE,,585,395,120,1.0,1,451
+716,6210328,Special,Covering window frame door rear,V6210328A,RR11/12,,NUE,,790,585,150,1.0,1,452
+717,6210330,Special,Covering window frame door rear,V6210330A,RR11/12,,NUE,,790,595,150,1.0,1,453
+718,6210332,Special,Covering window frame door rear,V6210332A,RR11/12,,NUE,,1170,395,89,1.0,1,454
+719,6210333,Special,Covering window frame door rear,V6210333A,RR11/12,,NUE,,585,790,89,1.0,1,455
+720,6210344,Special,Finisher B-post inner upper,V6210344A,RR11/12,,AAH,,585,395,62,0.5,1,456
+721,6210348,Special,Chrome ring outside large FLG,V6210348A,RR11/12,,MUC,,585,395,65,0.5,1,457
+722,6210349,Special,Chrome ring outside smal FLG,V6210349A,RR11/12,,MUC,,297,198,60,0.5,1,458
+723,6210350,Special,"Door Pocket Front RR31
+(End of Production)",,RR31,,OBSOLETE,,1235,835,967,32.0,,
+724,6210352,Special,Finisher Rear Seat Entertainment,V6210352A,RR11/12,,MUC,,585,395,120,2.0,1,459
+725,6210353,Special,EPP Centre Console Cupholder,V6210353A,RR11/12,,NUE,,585,395,208,1.0,1,460
+726,6210354,Special,Oddments tray rear compartment console,V6210354A,RR11/12,,AAH,,297,198,100,1.5,1,461
+727,6210364,Special,NOT USED AT ROLLS-ROYCE,,,,OBSOLETE,,,,,,,
+728,6210369,Special,Frame C-pillar inr,V6210369A,RR11/12,,MUC,,790,596,280,0.5,1,462
+729,6210372,Special,Channel defroster windscreen,V6210372A,RR11/12,,MUC,,795,585,147,1.0,1,463
+730,6210373,Special,"Chrome ring wood décor
+RR11/12",V6210373A,RR11/12,,MUC,,297,198,60,0.5,1,464
+731,6210449,Special,Carrier door trim panel door rr,V6210449A,RR11/12,,NUE,,1195,795,130,1.5,1,465
+732,6210453,Special,Cover Switch,V6210453A,RR11/12,,AAH,,585,395,57,0.5,1,466
+733,6210504,Special,Heating duct rear compartment rear,V6210504A,RR11/12,,AAH,,396,297,280,2.0,1,467
+734,6210527,Special,Wheel Caps/Covers,V6210527A,RR11/12,,AAH,,585,395,100,0.5,1,468
+735,6210578,Special,Decorative strips instrument panel ,V6210578A,RR11/12,,MUC,,585,395,98,0.5,1,469
+736,6210689,Special,Cover Rear Seat Entertainment,V6210689A,RR11/12,,MUC,,400,300,147,2.0,1,470
+737,6210693,Special,Carrier center console rear,V6210693A,RR11/12,,AAH,,790,395,390,2.0,1,471
+738,6210741,Special,"Seat Belt Upper Side Seat Rear
+(End of Production, Obsolete)",,RR11/12,,OBSOLETE,,600,400,150,3.5,,
+739,6210743,Special,"LH Headlight RR11/12/31
+(succeeded by 6213775)",,RR11/12,,OBSOLETE,,780,520,230,2.0,,
+740,6210793,Special,Top Trim Panel Bumper Rear,V6210793A,RR31,,MUC,,1170,790,142,3.5,1,472
+741,6210805,JIS,Cover Centre Console,V6210805A,RR31,,JIS,5,1170,790,240,2.5,13,473
+742,6210806,JIS,COVERING CENTRE CONSOLE,,RR31,,JIS,5,1240,835,995,110.0,13,
+743,6210822,Special,Assy Bailey Channel Front RR31,V6210822A,RR31,,BER,,1560,820,140,5,1,474
+744,6210823,Special,Assy Bailey Channel Rear RR31,V6210823A,RR31,,BER,,1170,790,168,38,1,475
+745,6210846,JIS,"Pallet for Main harness
+RR11/12/31/2X",,RR11/12,,JIS,10,1600,1200,180,18.0,6,
+746,6210847,JIS,"Lid for Main harness
+RR11/12/31/2X",,RR11/12,,JIS,10,1600,1200,50,11.0,6,
+747,6210854,Special,Decorative finisher center console,V6210854A,RR11/12,,BER,,800,600,140,1.0,1,476
+748,6210930,Special,Cover Cowl Panel,,RR31,,AAH,,1800,840,1450,150.0,1,
+749,6210963,JIS,Left Wing Mirror Cap RR11/12/31/2X,V6210963A,RR11/12/31/2X,,JIS,4b,585,395,135,1.0,11,477
+750,6210964,JIS,Right Wing Mirror Cap RR11/12/31/2X,V6210964A,RR11/12/31/2X,,JIS,4b,585,395,135,1.0,11,478
+751,6211025,JIS,"RR31 Headliners
+(Obsolete - replaced by 6215174)",,RR31,,OBSOLETE,,1540,1440,2780,350.0,10,
+752,6211028,Special,Rear Reflector RH RR11/12/31,V6211028A,RR11/12,,FRADLEY,,585,395,98,0.5,1,479
+753,6211035,Special,Air Duct Upper,,RR31,,AAH,,1200,1000,990,55.0,1,
+754,6211036,Special,RR31 Bonnet EPP,V6211036A,RR31,,AAH,,1760,1660,190,12.5,1,480
+755,6211037,Special,TONNEAU COVER RR6,,RR6,,FRADLEY,,1800,1000,500,150.0,1,
+756,6211038,Special,Seat Frame Container,,,,OBSOLETE,,1350,830,1156,52.0,1,
+757,6211101,JIS,RR31 Rear Headliner HKP Box,V6211101A,RR31,,JIS,8,1140,270,185,3.0,10,481
+758,6211109,Special,Coupling Device,,RR31,,BER,,1200,800,550,200.0,1,
+759,6211132,JIS,JIS CARPET BACKREST REAR,,RR31,,JIS,5,1340,835,995,110.0,13,
+760,6211174,JIS,"Finisher A-Pillar Upper Left/Right RR31
+(Replaced by 6214436)",,RR31,,OBSOLETE,,1680,1220,1064,320.0,,
+761,6211175,JIS,Finisher C-Pillar Upper Left/Right RR31,V6211175A,RR31,,JIS,11,790,590,175,1.1,3,482
+762,6211177,JIS,"Finisher D-Pillar Front/Rear Left/Right RR31
+(Replaced by 6214437/8)",,RR31,,OBSOLETE,,1680,1220,984,320.0,,
+763,6211178,Special,"RR31 TRUNK PARTS
+(Obsolete - replaced by 6213752)",,RR31,,OBSOLETE,,1600,1200,1500,150.0,,
+764,6211180,JIS,JIS Exhaust Front RR5/6/11/12/31/21/22,,RR5/6/11/12/31/21/22,,JIS,10,3200,1220,990,300.0,6,
+765,6211181,JIS,JIS Exhaust Rear RR5/6/11/12/31/21/22,,RR5/6/11/12/31/21/22,,JIS,10,2400,1600,1480,250.0,6,
+766,6211185,Special,Finisher Lock Tailgate,V6211185A,RR11/12,,AAH,,594,395,280,0.9,1,483
+767,6211200,JIS,BOOT TRUNK INLAY,,RR31,,JIS,5,1600,1200,980,350.0,13,
+768,6211212,Special,Door Trim Panel Sheets,V6211212A,RR11/12,,NUE,,1195,795,130,1.5,1,484
+769,6211246,Special,Trim Panel Headliner,V6211246A,RR31,,AAH,,297,198,147,1.0,1,485
+770,6211247,Special,Drive Shaft Front RR31,V6211247A,RR31,,NUE,,1190,790,123,3.0,1,486
+771,6211248,Special,Front Drive Shaft RR31,V6211248A,RR31,,MUC,,1080,675,135,3.5,1,487
+772,6211250,Special,Bracket Gasket B-Pillar,V6211250A,RR31,,AAH,,396,297,100,1.0,1,488
+773,6211251,JIS,Finisher C-Pillar Lower Left/Right RR31,,RR31,,JIS,7,1420,1220,1495,1.5,8,
+774,6211255,Special,Windshield Cover RR31,V6211255A,RR31,,BER,,1450,395,130,1.3,1,489
+775,6211281,JIS,Finisher A-Pillar Lower Left/Right RR31,,RR31,,JIS,7,1230,830,1495,1.5,8,
+776,6211282,JIS,Assy Parcel Shelf A/Col BA + SA RR31,,,,JIS,7,1165,785,800,1.5,8,
+777,6211412,Special,"Central Locking System Outer Plastic (contains 6210043)
+(End of Production)",,RR11/12,,OBSOLETE,,794,596,210,5.0,,
+778,6211414,Special,"Carrier part chrome
+RR11/12/31",V6211414A,RR11/12/31,,MUC,,585,395,120,2.0,1,490
+779,6211415,Special,"Finisher display RSE
+RR11/12/31",V6211415A,RR11/12/31,,MUC,,585,395,120,2.0,1,491
+780,6211425,Special,"Finisher EFM
+RR11/12/31",V6211425A,RR11/12/31,,MUC,,297,198,125,1.0,1,492
+781,6211426,Special,"Power unit RSE
+RR11/12/31",V6211426A,RR11/12/31,,MUC,,585,395,110,2.0,1,493
+782,6211512,JIS,Rear Parcel Shelf RR31,,RR31,,JIS,7,1690,1230,1495,250.0,8,
+783,6211513,Special,SFFG_EPP COVERING DOOR CAVIITY REAR_RR31,V6211513A,RR31,,FRADLEY,,1170,395,76,0.8,1,494
+784,6211531,Special,Tail Light RR11/12,V6211531A,RR11/12,,FRADLEY,,400,400,280,3.5,1,495
+785,6211586,Special,"Windscreen cover lateral
+RR11/12",V6211586A,RR11/12,,AAH,,594,396,147,2.0,1,496
+786,6211592,Special,SUPPORT LIGHT CONDUCTOR,V6211592A,,,MUC,,790,585,76,3.5,1,497
+787,6211594,Special,"Glaskasten HSG
+RR11/12",V6211594A,RR11/12,,MUC,,1550,395,185,3.5,1,498
+788,6211595,Special,"I-Panel carrier upr
+RR11/12",V6211595A,RR11/12,,MUC,,1550,780,210,5.0,1,499
+789,6211611,Special,"I-Panel finisher
+RR11/12",V6211611A,RR11/12,,MUC,,1550,395,185,5.0,1,500
+790,6211689,Special,"Sound insulation tunnel rear
+RR11/12",,RR11/12,,MUC,,1235,835,967,45.0,1,
+791,6211690,Special,"Sound insulation tunnel rear
+RR11/12",,RR11/12,,MUC,,1235,835,967,45.0,1,
+792,6211691,Special,"IP Carrier
+RR11/12/31",,RR11/12/31,,NUE,,1680,1220,1480,190.0,1,
+793,6211700,Special,RR31 FRONT DOOR GLASS,,RR31,,AAH,,1220,1220,990,150.0,1,
+794,6211701,Special,RR31 REAR DOOR GLASS,,RR31,,AAH,,1210,1210,990,90.0,1,
+795,6211763,Special,"Finisher display RSE
+RR11/12/31",V6211763A,RR11/12/31,,MUC,,585,395,110,1.0,1,501
+796,6211778,Special, ASSY AIR SUSPENSION STRUT FRT,,RR31,,BER,,1220,825,995,150.0,1,
+797,6211779,Special,Assy Air Suspension Strut RR31,,RR31,,BER,,1220,825,1100,150.0,1,
+798,6211780,Special,SFFG WINDSCREEN RR11/12/31,,RR11/12/31,,NUE,,1950,1100,1300,250.0,1,
+799,6211877,Special,"EPP TRIM MOULDING MESH
+(End of Production - RR4 Only)",,RR11/12,,OBSOLETE,,585,790,123,1.0,,
+800,6211878,Special,"Carrier wood part
+RR11/12/31",V6211878A,RR11/12/31,,MUC,,600,395,320,2.0,1,502
+801,6211879,Special,Picnic Table Veneered,V6211879A,RR31,,MUC,,585,395,320,2.0,1,503
+802,6211895,Special,RS Sensor for BMW Derivatives,V6211895A,All BMW Derivatives,,NUE,,585,395,160,0.9,1,504
+803,6212059,Special,Holder Finisher,V6212059A,RR11/12,,MUC,,1550,395,145,5.0,1,505
+804,6212069,Special,Holder Finisher,V6212069A,RR11/12,,MUC,,2000,500,165,3.0,1,506
+805,6212088,Special,Schubfeld,,RR11/12/31/21/22,,AAH,,1600,1200,740,55.0,1,
+806,6212111,Special,Assy Support Centre Console Upper,V6212111A,RR31,,MUC,,1170,790,405,2.0,1,507
+807,6212187,Special,Armrest Centre Console Base RR31,V6212187A,RR31,,MUC,,790,585,273,0.3,1,508
+808,6212188,Special,Support Centre Console Rear Upper,V6212188A,RR31,,MUC,,585,395,208,0.9,1,509
+809,6212201,Special,Assy I-Panel Upper RR31,V6212201A,RR31,,MUC,,1550,780,210,3,1,510
+810,6212212,JIS,C-Pillar Lower Individual Seat RR2X,,RR2X,,JIS,8,1200,800,600,150.0,10,
+811,6212324,Special,Ventilation Grille Rear Shelf Side EPP,V6212324A,RR31,,AAH,,585,395,62,0.4,1,511
+812,6212376,Special,Steering Column RR2X,V6212376A,RR2X,,AAH,,1180,780,123,2.8,1,512
+813,6212377,Special,Air Strut Front RR2X,,RR2X,,BER,,1220,820,990,150.0,1,
+814,6212378,Special,Air Strut Rear RR2X,,RR2X,,BER,,1220,825,995,150.0,1,
+815,6212379,Special,Brake unit_RR2x,V6212379A,RR21/22,,NUE,,1190,790,280,5.6,1,513
+816,6212397,JIS,JIS Parcel Shelf RR2X,,RR2X,,JIS,11,1500,1200,980,160.0,3,
+817,6212472,Special,SFFG_EPP_Cov_strip_entrance_frt_RR21 22,V6212472A,RR21/22,,MUC,,790,585,143,2.0,1,514
+818,6212473,Special,Speaker center bass,V6212473A,RR21/22,,NUE,,585,395,172,2.0,1,515
+819,6212474,Special,Carrier trim panel rear RR21 22 ,V6212474A,RR21/22,,MUC,,800,600,100,1.0,1,516
+820,6212475,Special,Window Guide Outer Container RR31,,RR31,,BER,,1600,820,995,100.0,1,
+821,6212478,Special,RH Taillight RR21/22,V6212478A,RR21/22,,MUC,,600,400,280,1.5,1,517
+822,6212484,Special,SFFG_Gap_Seal_door_ front_LH_RR21_22,V6212484A,RR21/22,,BER,,1170,780,80,2.6,1,518
+823,6212491,Special,Assy waistline cover rear_RR21,V6212491A,RR21,,AAH,,1170,395,82,3.0,1,519
+824,6212492,Special,Assy waistline cover rear_RR22,V6212492A,RR22,,AAH,,1170,395,82,3.0,1,520
+825,6212493,Special,SFFG_Window_Guide_Door_rear_LH_RR21_22,V6212493A,RR21/22,,BER,,1170,1170,98,3.8,1,521
+826,6212497,Special,Heating duct rear comp RR21 22,V6212497A,RR21/22,,MUC,,590,395,80,1.0,1,522
+827,6212503,Special,SFFG_high-mounted_stop_light_RR2X,V6212503A,RR21/22,,MUC,,594,396,147,2.0,1,523
+828,6212504,Special,LH Taillight RR21/22,V6212504A,RR21/22,,MUC,,594,396,280,3.5,1,524
+829,6212505,Special,finisher I-panel RR2x,V6212505A,RR21/22,,MUC,,590,395,170,2.5,1,525
+830,6212509,Special,SFFG_SI Tunnel rear_RR22,,RR22,,AAH,,1235,835,967,43.5,1,
+831,6212510,Special,SFFG_EPP Wiperlevers front RR2x,V6212510A,RR21/22,,AAH,,1170,795,130,2.5,1,526
+832,6212511,Special,SFFG_EPP_radiator_grille_RR2x,V6212511A,RR21/22,,MUC,,1170,790,210,3.0,1,527
+833,6212515,Special,Finisher bonnet upper RR2x,V6212515A,RR21/22,,AAH,,595,395,174,2.0,1,528
+834,6212516,Special,SFFG_Cover_Radiator_Grille_Lower_RR2x,V6212516A,RR21/22,,MUC,,1170,260,123,0.9,1,529
+835,6212518,Special,air guide upper RR21 22 ,,RR21/22,,AAH,,1235,1000,967,12.0,1,
+836,6212520,Special,Covering window door front_LH_RR21_22,V6212520A,RR21/22,,MUC,,1170,780,115,1.6,1,530
+837,6212521,Special,Covering window door rear_LH_RR21_22,V6212521A,RR21/22,,MUC,,1170,780,115,1.6,1,531
+838,6212522,Special,SFFG_Edge_Trim_front_RR21_22,,RR21/22,,OBSOLETE,,1180,1180,80,4.0,,532
+839,6212526,Special,Top shoulder outside alu rear RR21,V6212526A,RR21,,MUC,,790,585,142,0.9,1,533
+840,6212528,Special,Top shoulder outside alu rear RR22,V6212528A,RR22,,MUC,,790,585,105,1.0,1,534
+841,6212536,Special,Carrier I panel top side RR21 22,V6212536A,RR21/22,,MUC,,1560,790,140,5.0,1,535
+842,6212538,Special,SFFG_Gap_Seal_Door_Rear_LH_RR21_22,V6212538A,RR21/22,,BER,,1170,780,80,2.7,1,536
+843,6212539,Special,assy analog clock,V6212539A,RR11/12/31/21/22,,NUE,,297,198,125,2.0,1,537
+844,6212541,Special,SFFG_Gap_Seal_Door_Rear_RH_RR21_22,V6212541A,RR21/22,,BER,,1170,780,80,2.7,1,538
+845,6212542,Special,Windscreen Defrosting Panel,V6212542A,RR21/22,,MUC,,585,394,147,2.0,1,539
+846,6212544,Special,Carrier I-Panel Lower,V6212544A,RR21/22,,MUC,,1170,395,365,10.0,1,540
+847,6212551,Special,Cover tray armrest RR21 22,V6212551A,RR21/22,,MUC,,400,300,100,0.5,1,541
+848,6212555,Special,Decorative trim I panel RR21 22,V6212555A,RR21/22,,MUC,,585,395,82,0.7,1,542
+849,6212557,Special,Front Centre Console Storage Compartment RR21/22,V6212557A,RR21/22,,MUC,,790,585,220,3.0,1,543
+850,6212559,Special,Carrier panel rear RR21 22,V6212559A,RR21/22,,MUC,,585,795,210,2.0,1,544
+851,6212560,Special,Trim Panel Cupholder FOKO,V6212560A,RR21/22,,AAH,,395,296,150,0.5,1,545
+852,6212562,Special,Covering Windscreen Upper RR2X,,RR2X,,BER,,1800,820,1150,220.0,1,
+853,6212566,Special,Headlight RH RR21_22,V6212566A,RR21/22,,NUE,,600,400,445,3.0,1,546
+854,6212585,Special,Cable cover hinge arm RR21 22,V6212585A,RR21/22,,MUC,,400,300,98,2.5,1,547
+855,6212587,Special,Finisher I-Panel,V6212587A,RR21/22,,NUE,,1160,395,150,3.5,1,548
+856,6212626,Special,Trim Panel Window Frame,V6212626A,RR31,,MUC,,1235,835,967,45.0,1,549
+857,6212627,Special,Door Pocket Rear,V6212627A,RR31,,MUC,,1235,835,967,32.0,1,550
+858,6212657,Special,Sound Insulation Tunnel Front RR31,,RR31,,AAH,,1235,835,967,45.0,1,
+859,6212658,Special,Tunnel Sound Insulation RR31,,RR31,,AAH,,1235,835,967,45.0,1,
+860,6212683,Special,Carrier Finisher D-Pillar,,RR11/12,,MUC,,2100,1035,995,230.0,1,
+861,6212686,Special,Crashblock door front/rear RR21 22,V6212686A,RR21/22,,MUC,,300,200,89,0.5,1,551
+862,6212692,Special,Sichtblende Ablagefach MAL RR21 22,,RR21/22,,OBSOLETE,,395,296,150,0.4,,552
+863,6212697,Special,Covering Cowl Panel,,RR2X,,AAH,,1800,840,1450,70.0,1,
+864,6212756,Special,Centre Console Bracket,V6212756A,RR31,,MUC,,585,395,208,0.9,1,553
+865,6212798,JIS,"Please do not send, being held for Daniel Santamaria
+(Obsolete and succeeded by 6215624)",,RR31,,OBSOLETE,,1170,160,104,3.5,,
+866,6212818,Special,Chrome Filler Cap EPP,V6212818A,All,,NUE,,600,400,147,0.7,1,554
+867,6212898,Special,Assy Seal B-Pillar Lower,V6212898A,RR31,,AAH,,585,395,142,0.5,1,555
+868,6212931,Special,Assy Finisher HUD,V6212931A,RR31,,MUC,,585,395,123,0.5,1,556
+869,6212932,Special,Centre Console Bracket RR31,V6212932A,RR31,,MUC,,1170,790,405,2.0,1,557
+870,6212933,Special,Defrost Grill Door Glass RR31,V6212933A,RR31,,MUC,,396,297,147,1,1,558
+871,6212934,Special,Finisher ZBE RR31,V6212934A,RR31,,MUC,,585,395,83,0.4,1,559
+872,6212935,Special,I-Panel Trim,V6212935A,RR31,,MUC,,585,790,142,0.9,1,560
+873,6212936,Special,Facing Installation Kit CID,V6212936A,RR31,,MUC,,585,395,59,0.3,1,561
+874,6212937,Special,Finisher Oddments Tray RSE,V6212937A,RR31,,MUC,,585,397,120,2,1,562
+875,6212943,Special,SFFG_Surround_Glass_Display_Compos._R2x,V6212943A,RR21/22,,BER,,595,395,172,0.9,1,563
+876,6212963,Special,I-Panel Trim RR31,V6212963A,RR31,,BER,,585,395,142,0.5,1,564
+877,6212973,Special,RH Taillight RR31,V6212973A,RR31,,FRADLEY,,400,400,280,3.5,1,565
+878,6212976,Special,LH Taillight RR31,V6212976A,RR31,,FRADLEY,,400,400,280,3.5,1,566
+879,6212985,Special,SFFG_EPP Chromring Holzdekor_RR,V6212985A,RR11/12/31/21/22,,MUC,,297,198,60,0.4,1,567
+880,6212989,Special,Tilting Boot Mechanism,V6212989A,RR31,,MUC,,794,596,280,4.0,1,568
+881,6213134,Special,Wiper Blade EPP RR11/12,V6213134A,RR11/12,,AAH,,1170,795,130,2.4,1,569
+882,6213169,Special,Window Frame Cover on Door RR31,V6213169A,RR31,,MUC,,1235,835,967,45.0,1,570
+883,6213170,Special,Cover Window Frame Door,V6213170A,RR31,,MUC,,1235,835,967,45.0,1,571
+884,6213224,JIS,Event Box & Seat RR31,,RR31,,JIS,2,1300,1200,800,100.0,4,
+885,6213259,Special,Mount Door Panelling Rear,,RR31/2X,,OBSOLETE,,1235,835,967,35.0,,
+886,6213279,BIW,RR21/22 Front Side Panel LH (BIW),,RR21/22,,,,2400,1600,1260,384.0,1,
+887,6213280,BIW,RR21/22 Front Side Panel RH (BIW),,RR21/22,,,,2400,1600,1260,384.0,1,
+888,6213293,BIW,RR21/22 Bonnet (BIW),,RR21/22,,,,2000,1200,2160,297.0,1,
+889,6213294,Special,"RR2X Bonnet EPP
+(Not progressed to Series Order)",,RR2X,,OBSOLETE,,1500,1105,220,15.0,,
+890,6213300,Special,Centre Armrest Button RR31,V6213300A,RR31,,AAH,,585,395,71,0.4,1,572
+891,6213301,Special,Centre Armrest Seat RR31,V6213301A,RR31,,BER,,585,395,71,0.4,1,573
+892,6213302,Special,Trim Panel Seat Row 2,V6213302A,RR31,,AAH,,585,395,71,0.4,1,574
+893,6213303,Special,Centre Armrest Seat,V6213303A,RR31,,AAH,,585,395,109,0.5,1,575
+894,6213351,Special,Coverplate footwell trim RR21 22,V6213351A,RR21/22,,MUC,,595,395,147,1.0,1,576
+895,6213463,Special,SFFG_Cover_Sidewindow_fixed_rear_RR2x,V6213463A,RR21/22,,FRADLEY,,595,395,80,2.0,1,577
+896,6213464,Special,SFFG_Finisher_C-Pillar_Glass_Body_RR2x,V6213464A,RR21/22,,FRADLEY,,595,395,80,0.6,1,578
+897,6213465,Special,SFFG_Finisher_C-Pillar_RR21_22,V6213465A,RR21/22,,FRADLEY,,795,595,130,1.4,1,579
+898,6213466,Special,SFFG_Finisher-B-Pillar_front_RR21_22,V6213466A,RR21/22,,FRADLEY,,790,585,130,2.0,1,580
+899,6213467,Special,SFFG_Finisher_B-Pillar_Rear_RR21_22,V6213467A,RR21/22,,FRADLEY,,790,595,130,2.0,1,581
+900,6213468,Special,Cover_Windowframe_Finisher_frt_Door_LH_RR2x,V6213468A,RR21/22,,FRADLEY,,1350,395,80,1.1,1,582
+901,6213469,Special,SFFG_Cover_Windowframe_rear_door_RR22,V6213469A,RR22,,FRADLEY,,795,595,80,1.1,1,583
+902,6213470,Special,Cover_Windowfr_Finisher_rr_Door_RR21,V6213470A,RR21,,FRADLEY,,795,595,80,1.1,1,584
+903,6213471,Special,SFFG_Finisher_B-Pillar_body_fixed_RR2x,V6213471A,RR21/22,,FRADLEY,,795,595,90,1.1,1,585
+904,6213473,Special,SFFG_Finisher_A-Pillar_frt_RR21_22,V6213473A,RR21/22,,FRADLEY,,595,395,80,0.6,1,586
+905,6213509,Special,"RR2X Bonnet Load Unit Lid
+(Not progressed to Series Order)",,RR2X,,OBSOLETE,,1518,1125,148,8.0,,
+906,6213510,Special,"RR2X Bonnet Load Unit Metal Outer (Base Plate)
+(Not progressed to Series Order)",,RR2X,,OBSOLETE,,1560,1200,190,135.0,,
+907,6213611,Special,"RR4/5/6 Bonnet Strip
+(Containers Lost, replaced by Cardboard)",,RR4/5/6,,OBSOLETE,,1173,411,50,2.0,,
+908,6213715,Special,Front Door Seal Joint,V6213715A,RR31,,BER,,1200,795,71,3.0,1,587
+909,6213751,JIS,"Boot Cover Centre RR2X
+(replacement of 6211178)",,RR2X,,JIS,5,1600,1200,1200,130.0,13,
+910,6213752,JIS,"Boot Cover Sides RR2X
+(replacement of 6205238)",,RR2X,,JIS,5,1500,800,1450,130.0,13,
+911,6213775,Special,LH Headlight RR11/12/31,V6213775A,RR11/12/31,,NUE,,600,400,445,5.0,1,588
+912,6213792,Special,RH Headlight RR11/12/31,V6213792A,RR11/12/31,,NUE,,600,400,445,5.0,1,589
+913,6213802,Special,Thermostat KLT,V6213802A,RR11/12/31,,AAH,,396,297,147,2.0,1,590
+914,6213870,Special,Rear CD Drive,V6213870A,RR31,,MUC,,585,395,142,0.5,1,591
+915,6213904,JIS,"JIS ASSY HANDLE STRIP RR31
+(Obsolete an succeeded by 6214866)",,RR31,,OBSOLETE,,1170,160,104,3.5,,
+916,6213936,Special,FINISHER RSE REAR,V6213936A,RR31,,MUC,,585,395,120,2.0,1,592
+917,6214004,Special,Panelling Side Rail,V6214004A,RR31,,MUC,,794,596,110,1.2,1,593
+918,6214019,Special,Handle Bar LH&RH RR31,V6214019A,RR31,,AAH,,585,395,82,0.4,1,594
+919,6214165,Special,Plastic Outer for Various R-R Specials,,RR11/12/31,,AAH,,1600,1200,740,55.0,1,
+920,6214415,Special,Fleece Door Panelling Front RR31,V6214415A,RR31,,MUC,,1170,790,89,1.4,1,595
+921,6214416,Special,Fleece Door Panelling RR31,V6214416A,RR31,,MUC,,1170,395,89,0.8,1,596
+922,6214430,Special,Lid for Headlight RR11/12/31,,RR11/12/31,,NUE,,600,400,20,1.0,1,
+923,6214436,JIS,Finisher A-Pillar Upper Left/Right RR31,,RR31,,JIS,11,1800,1235,600,250.0,3,
+924,6214437,JIS,Finisher D-Pillar Front Left/Right,,RR2X,,JIS,11,1800,1235,730,250.0,3,
+925,6214438,JIS,Finisher D-Pillar Rear Left/Right RR31,V6214438A,RR31,,JIS,11,600,400,150,20.0,3,597
+926,6214491,JIS,B-Pillar Upper/Lower LH/RH RR2X,,RR2X,,JIS,8,1200,1000,1000,150.0,10,
+927,6214493,JIS,A-Pillar Lower LH/RH RR2X,,RR2X,,JIS,8,1200,800,750,150.0,10,
+928,6214494,JIS,C-Pillar Upper RR2X,,RR2X,,JIS,8,1200,800,1000,100.0,10,
+929,6214495,JIS,C-Pillar Lower RR2X,,RR2X,,JIS,8,1200,800,600,150.0,10,
+930,6214506,JIS,Sideframe Finisher EPP RR2X,V6214506A,RR21/22,,JIS,7,2950,718,80,5.0,8,598
+931,6214507,JIS, Sideframe Finisher Outer Metal RR2X,,RR21/22,,JIS,7,3020,780,750,225.0,8,
+932,6214508,JIS,JIS Frame Radiator Grille RR21/22,V6214508A,RR21/22,,JIS,4b,1170,580,210,3.0,11,599
+933,6214562,Special,Lower grille air guide LH ,V6214562A,RR4,,FRADLEY,,600,400,220,1.5,1,600
+934,6214563,Special,Lower grille air guide RH,V6214563A,RR4,,FRADLEY,,600,400,220,1.5,1,601
+935,6214564,Special,Lower grille air guide Centre,V6214564A,RR4,,FRADLEY,,600,800,220,1.5,1,602
+936,6214648,JIS,Rear Headliner RR31,,RR31,,JIS,8,1200,800,750,100.0,10,
+937,6214773,Special,Leather Horse RR2X,,RR2X,,FRADLEY,,3000,1200,1850,354.0,1,
+938,6214808,Special,Axle Front/Rear (RESEQUENCING),,ALL,,CARSET,,2430,2000,575,300.0,15,
+939,6214809,Special,"Gearbox Resequencing
+(RESEQUENCING)",,ALL,,CARSET,,1200,1200,1000,300.0,15,
+940,6214830,Special,Windscreen RR2X,,RR2X,,NUE,,1950,1100,1300,250.0,1,
+941,6214866,JIS,"JIS Griffleiste Hecklappe RR31
+(successor to 6213904 and 6212798)",V6214866A,RR31,,JIS,4a,1170,160,104,0.4,11,603
+942,6215151,Special,Decorcover FS RR21 22,V6215151A,RR21/22,,NUE,,400,300,100,0.5,1,604
+943,6215174,JIS,JIS Headliner RR31/21/22,,RR31/2X,,JIS,8,1220,1500,2780,350.0,10,
+944,6215254,Special,Headlight LH RR21_22,V6215254A,RR21/22,,NUE,,600,400,445,3.0,1,605
+945,6215265,Special,"Plaque Cill Finisher
+(Container owned by DKW)",,RR31,,OBSOLETE,,400,300,135,2.0,,606
+946,6215451,Special,"Volkswagen Plastic Pallet often sent by Grammer
+(VW number 114777)",,All BMW Derivatives,,OBSOLETE,,1200,800,230,36.0,,607
+947,6215581,Special,SFFG_EPP Finisher load space_R2x,V6215581A,RR11/12/21/22,,AAH,,800,600,273,2.0,1,608
+948,6215623,JIS,JIS Sills Outer RR11/12/31/21/22,,RR1X/31/2X,,JIS,4a,3400,820,750,180.0,1,609
+949,6215624,JIS,JIS Sills EPP RR11/12/31/21/22,,RR1X/31/2X,,JIS,4a,2900,650,150,2.5,1,
+950,6215642,JIS,Wooden Pallet for Front Axle RR11/12/31/21/22,,RR11/12/31/21/22,,OBSOLETE,,2200,1150,1150,144.0,14,
+951,6215643,JIS,Wooden Pallet for Rear Axle RR11/12/31/21/22,,RR11/12/31/21/22,,JIS,3,2100,950,900,116.0,14,
+952,6215689,Special,Cover_Windowframe_Finisher_frt_Door_RH_RR2x,V6215689A,RR21/22,,FRADLEY,,1360,395,80,1.1,1,610
+953,6215698,Special,Assy waistline cover front_RR21_RR22,V6215698A,RR21/22,,AAH,,1170,395,80,0.7,1,611
+954,6215798,Special,Top shoulder outside alu frt RR21 22,V6215798A,RR21/22,,MUC,,795,595,97,0.8,1,612
+955,6215819,Special,Window Door Guide Vacuum Tray RR2X,V6215819A,RR2X,,BER,,1560,820,94,5.0,1,613
+956,6215821,Special,SFFG_Edge_Trim_rr_RR21,V6215821A,RR21,,BER,,1180,780,80,4.0,1,614
+957,6215822,Special,SFFG_Gap_Seal_door_ front_RH_RR21_22,V6215822A,RR21/22,,BER,,1170,795,80,2.6,1,615
+958,6215823,Special,SFFG_Edge_Trim_rr_RR22,,RR22,,BER,,1800,800,1000,,1,616
+959,6215825,Special,SoE Lowering Mechanism RR21/22,V6215825A,RR21/22,,MUC,,796,595,280,4.0,1,617
+960,6215841,Special,Carrier Centre Console RR21/22,V6215841A,RR21/22,,MUC,,1170,790,405,3.0,1,618
+961,6215947,Special,Panel Tray armrest RR21 22,V6215947A,RR21/22,,MUC,,395,295,147,0.5,1,619
+962,6215948,Special,Panel I Combi upper lower RR21 22,V6215948A,RR21/22,,MUC,,585,395,110,0.5,1,620
+963,6215949,Special,Covering window door front RH_RR21_22,V6215949A,RR21/22,,MUC,,1170,780,115,1.6,1,621
+964,6215950,Special,Panel I Combi outside inside RR21 22,V6215950A,RR21/22,,MUC,,300,200,147,0.5,1,622
+965,6215952,Special,Covering window door rear RH_RR21_22,V6215952A,RR21/22,,MUC,,1180,790,115,1.6,1,623
+966,6215955,Special,Chrome panel door button ZBE RR21 22,V6215955A,RR21/22,,MUC,,300,200,147,0.5,1,624
+967,6216199,Special,Cover HUD RR21 22,V6216199A,RR21/22,,MUC,,595,395,273,5.0,1,625
+968,6216392,Special,Rear Window Glass,,RR21/22,,NUE,,1800,1200,1600,339.0,1,626
+969,6216461,Special,SFFG_Window_Guide_Door_rear_RH_RR21_22,V6216461A,RR21/22,,BER,,1170,1170,80,3.8,1,627
+970,6216486,Special,Decorative trim center console RR21 22,V6216486A,RR21/22,,MUC,,585,395,82,0.5,1,628
+971,6216487,Special,Carrier trim panel rear RR21 22 ,V6216487A,RR21/22,,MUC,,790,585,98,1.0,1,629
+972,6216776,Special,Cover channel bumper rr centre,V6216776A,RR21/22,,AAH,,1170,790,142,2.0,1,630
+973,6216906,Special,Gef.Schale Griffmulde vo/hi_RR11/31,V6216906A,RR31/21/22,,MUC,,595,395,90,0.5,1,631
+974,6217192,Special,Paintbox-Owned Container for Primed Bespoke Parts RR4/5/6,V6217192A,RR4/5/6,,FRADLEY,,600,400,180,2.0,1,632
+975,6217198,JIS,Bumper Rear RR21/22/25,,RR21/22/25,,JIS,4a,2420,1220,1480,300.0,1,
+976,6217274,Special,Bespoke Front Bumper Bezel Inserts RR5/6,V6217274A,RR5/6,,FRADLEY,,396,297,147,5.0,1,633
+977,6217573,Special,Water Tank RR11/12/31/2X,,RR11/12/31/2X,,OBSOLETE,,1240,835,970,170.0,,
+978,6218011,Special,Side Bumper Front Lower Finisher RR11/12,V6218011A,RR11/12,,MUC,,1740,780,65,2.5,1,634
+979,6218523,Special,Covering Engine Bay Front RR21/22,,RR21/22,,AAH,,1800,800,1000,100.0,1,
+980,6218816,Special,Bespoke Illuminated Fascia RR21/22,V6218816A,RR21/22,,MUC,,570,370,165,5.0,1,635
+981,6221238,Special,RR5/6 Paint Bars Front,V6221238A,RR5/6,,CARSET,,128,30,45,29.0,,
+982,6221239,Special,RR6 Tailgate Gas Struts,V6221239A,RR6,,CARSET,,39,2,2,5.0,,
+983,6221314,Carset,Rolls-Royce Large Modular Carset Container,,,,CARSET,,1610,1422,1171,223.0,,
+984,6221322,Special,RR5/6 Paint Bars Rear,,RR5/6,,CARSET,,128,44,80,40.0,,
+985,6221323,Special,RR31 Paint Bars Front,V6221323A,RR31,,CARSET,,128,27,84,28.0,,636
+986,6221324,Special,RR31 Paint Bars Rear,V6221324A,RR31,,CARSET,,128,20,55,28.0,,637
+987,6221325,Special,RR11/12 Paint Bars Front,,RR11/12,,CARSET,,128,25,82,28.0,,
+988,6221326,Special,RR11/12/21/22 Paint Bars,V6221326A,RR11/12/21/22,,CARSET,,128,38,80,33.0,,638
+989,6221327,Special,RR12 Paint Bars Front,,RR12,,CARSET,,128,24,100,28.0,,
+990,6221328,Special,RR21 Paint Bars Front,V6221328A,RR21,,CARSET,,128,20,55,31.0,,639
+991,6221329,Special,RR22 Paint Bars Front,V6221329A,RR22,,CARSET,,129,19,71,28.0,,640
+992,6222149,Special,Plastic Battery Pallet,V6222149A,ALL,,MUC,,1200,800,150,12.0,1,641
+993,6222180,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+994,6222181,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+995,6222182,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+996,6222183,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+997,6222184,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+998,6222185,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+999,6222186,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+1000,6222206,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+1001,6222208,Carset,Plant Goodwood Internal Carset Container,,ALL,,CARSET,,,,,,,
+1002,6222410,Special,Covering Badge Lens RR21/31 w/ Inlays,V6222410A,RR21/31,,MUC,,600,400,90,3.5,1,642
+1003,6222668,Carset,Rolls-Royce Small Modular Carset Container,,,,CARSET,,1250,845,1171,168.6,,
+0,,Special,Invalid Container,,,,,,,,,,,

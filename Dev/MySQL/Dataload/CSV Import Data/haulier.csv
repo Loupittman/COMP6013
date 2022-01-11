@@ -1,0 +1,49 @@
+﻿id,haulier
+1,DHL Special Container Returns
+2,"IMPERIAL
+Inbound A-D
+Empties A-D
+Timeslot 06:30"
+3,"IMPERIAL
+Inbound A-D
+Empties A-D
+Timeslot 10:30"
+4,"IMPERIAL
+Inbound A-B
+ Empties A-C
+Timeslot 18:00"
+5,"IMPERIAL
+Inbound A-D
+Empties A-D
+Timeslot 13:30"
+6,"IMPERIAL
+Inbound A-D
+Empties A-D
+Timeslot 15:00"
+7,N/A
+8,"RUDOLPH
+Inbound A-D
+Empties A-E
+Timeslot 16:30"
+9,DHL
+10,"DUVENBECK
+Inbound A-F
+Empties A-F
+Timeslot 07:30"
+11,"IMPERIAL
+Inbound A-C
+Empties A-D
+Timeslot 19:30"
+12,"DHL JIS
+Inbound A-D
+Empties A-D
+Timeslot 09:30"
+13,"DUVENBECK
+Inbound A-D
+Empties A-D
+Timeslot 20:30"
+14,"DUVENBECK
+Inbound A-C
+Empties A-C
+Timeslot 13:00"
+15,INTERNAL
