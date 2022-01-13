@@ -1,12 +1,18 @@
+from html import escape
+
 from flask import Flask
+from flask.json import dumps, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_restful import Api, Resource, reqparse
+
+__version__ = '0.0.0.g4058e57'
 
 app = Flask(__name__)
 api= Api(app)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://18059081:dn46d93bnmxx@localhost/container_identification'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+# app.config["JSONIFY_PRETTYPRINT_REGULAR"] = True
 db = SQLAlchemy(app)
 
 
@@ -26,6 +32,10 @@ class Container(db.Model):
     weight = db.Column(db.Numeric(10, 1))
     haulier_id = db.Column(db.Integer())
     load_unit_id = db.Column(db.Integer())
+
+    def as_dict(self):
+        # Does not follow relationships or encode primary or foreign keys but that's all we need for now
+        return {c.name: getattr(self, c.name) for c in self.__table__.columns}
 
 
 containers_put_args = reqparse.RequestParser()
@@ -51,8 +61,9 @@ api.add_resource(ContainerTest, "/containertest/<container_id>")
 @app.route("/")
 def hello_world():
     container = Container.query.filter_by(id=200).first()
+    decode = jsonify(container.as_dict()).data.decode('UTF-8')
+    print(decode)
     return (
-        f'<p>Hello, World!</p>\n'
-        f'<p>Query result: {container.description}</p>'
+        f'<p>{container.as_dict()}</p>\n'
+        f'{decode}'
     )
-
