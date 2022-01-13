@@ -1,6 +1,6 @@
 from html import escape
 
-from flask import Flask
+from flask import Flask, abort
 from flask.json import dumps, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_restful import Api, Resource, reqparse
@@ -58,12 +58,11 @@ class ContainerTest(Resource):
 api.add_resource(ContainerTest, "/containertest/<container_id>")
 
 
-@app.route("/")
-def hello_world():
-    container = Container.query.filter_by(id=200).first()
-    decode = jsonify(container.as_dict()).data.decode('UTF-8')
-    print(decode)
-    return (
-        f'<p>{container.as_dict()}</p>\n'
-        f'{decode}'
-    )
+@app.route('/container/<container_id>', methods=['GET'])
+def container(container_id):
+    c = Container.query.filter_by(container_id=container_id).first()
+    if not c:
+        abort(404, f'Container ID {container_id} not found')
+
+    response = jsonify(c.as_dict()).data.decode('UTF-8')
+    return response
